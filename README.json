@@ -631,10 +631,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T00:14:12Z",
+            "last_commit": "2026-08-13T10:53:03Z",
             "owner": "louislam",
             "repo": "uptime-kuma",
-            "stars": 90127
+            "stars": 90139
           }
         },
         {
@@ -661,7 +661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:56:15.401Z",
+    "last_updated": "2026-08-13T11:32:29.006Z",
     "original_repository": "LANparties/awesome-lanparty-software",
     "original_repository_sha": "b48450e0ba570f020ffabc4d8d4e218b49b705a6",
     "enhanced_repository": "enhansome/enhansome-lanparty-software",

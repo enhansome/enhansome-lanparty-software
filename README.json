@@ -159,10 +159,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T00:30:09Z",
+            "last_commit": "2026-08-14T20:17:23Z",
             "owner": "pterodactyl",
             "repo": "panel",
-            "stars": 9141
+            "stars": 9143
           }
         },
         {
@@ -544,7 +544,7 @@
             "last_commit": "2026-08-02T21:12:43Z",
             "owner": "tpill90",
             "repo": "steam-lancache-prefill",
-            "stars": 434
+            "stars": 435
           }
         },
         {
@@ -631,10 +631,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T00:14:25Z",
+            "last_commit": "2026-08-15T00:05:58Z",
             "owner": "louislam",
             "repo": "uptime-kuma",
-            "stars": 90171
+            "stars": 90190
           }
         },
         {
@@ -661,7 +661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:30:44.104Z",
+    "last_updated": "2026-08-15T11:00:34.577Z",
     "original_repository": "LANparties/awesome-lanparty-software",
     "original_repository_sha": "b48450e0ba570f020ffabc4d8d4e218b49b705a6",
     "enhanced_repository": "enhansome/enhansome-lanparty-software",

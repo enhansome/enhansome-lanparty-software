@@ -166,7 +166,7 @@
                 "last_commit": "2026-08-14T20:17:23Z",
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9158
+                "stars": 9159
               }
             },
             {
@@ -592,7 +592,7 @@
                 "last_commit": "2021-03-09T18:30:55Z",
                 "owner": "bntjah",
                 "repo": "lancache",
-                "stars": 183
+                "stars": 184
               }
             },
             {
@@ -649,7 +649,7 @@
                 "archived": false,
                 "id": 1043040666,
                 "language": "C#",
-                "last_commit": "2026-08-19T04:01:07Z",
+                "last_commit": "2026-08-19T11:58:28Z",
                 "owner": "regix1",
                 "repo": "lancache-manager",
                 "stars": 33
@@ -674,7 +674,7 @@
                 "last_commit": "2026-08-19T00:33:12Z",
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 90332
+                "stars": 90339
               }
             },
             {
@@ -702,8 +702,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:04:06.970Z",
+    "last_updated": "2026-08-19T12:39:39.871Z",
     "original_repository": "LANparties/awesome-lanparty-software",
+    "original_repository_id": 217301670,
     "original_repository_sha": "b48450e0ba570f020ffabc4d8d4e218b49b705a6",
     "enhanced_repository": "enhansome/enhansome-lanparty-software",
     "enhanced_repository_description": null,

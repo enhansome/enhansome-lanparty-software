@@ -31,13 +31,13 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Gameserver Management
 
-* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,159 | 🐛 172 | 🌐 PHP | 📅 2026-08-14 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
+* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,160 | 🐛 172 | 🌐 PHP | 📅 2026-08-14 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
 * [get5](https://github.com/splewis/get5) ⭐ 558 | 🐛 11 | 🌐 SourcePawn | 📅 2023-11-14 – CS:GO Sourcemod plugin for competitive matches/scrims.
 * [eBot](https://github.com/deStrO/eBot-CSGO) ⭐ 383 | 🐛 10 | 🌐 PHP | 📅 2023-11-07 – CSGO Server Bot for easy match creation (might be outdated).
 * [PugSharp](https://github.com/Lan2Play/PugSharp) ⭐ 61 | 🐛 32 | 🌐 C# | 📅 2026-02-16 - CS2 CS# plugin for competitive matches/scrims, with api compatibility to get5.
 * [Wilfred](https://github.com/wilfred-dev/wilfred) ⭐ 37 | 🐛 14 | 🌐 Python | 📅 2024-01-06 – "Wilfred is a command-line interface for running and managing game servers locally. It uses Docker to run game servers in containers, which means they are completely separated. Wilfred can run any game that can run in Docker."
 * [TMT](https://github.com/JensForstmann/tmt2) ⭐ 36 | 🐛 5 | 🌐 TypeScript | 📅 2026-05-23 – A tool to supervise/manage Counter-Strike 2 matches.
-* [srcds\_exporter (golang)](https://github.com/galexrt/srcds_exporter) ⭐ 31 | 🐛 4 | 🌐 Go | 📅 2026-08-17 – A stats exporter for prometheus written in Go and tested with Garry's Mod.
+* [srcds\_exporter (golang)](https://github.com/galexrt/srcds_exporter) ⭐ 31 | 🐛 4 | 🌐 Go | 📅 2026-08-19 – A stats exporter for prometheus written in Go and tested with Garry's Mod.
 * [kubernetes-lanparty](https://github.com/OpenSourceLAN/kubernetes-lanparty/) ⭐ 26 | 🐛 0 | 🌐 Smarty | 📅 2022-10-03  How to put all of your game servers into Kubernetes.
 * [srcds\_exporter (python)](https://github.com/991jo/srcds_exporter) ⭐ 20 | 🐛 4 | 🌐 Python | 📅 2021-03-20 – A stats exporter for prometheus that supports most of the SRCDS based gameservers.
 * [srcds-perfmon](https://github.com/OpenSourceLAN/srcds-perfmon) ⭐ 8 | 🐛 1 | 🌐 HTML | 📅 2016-05-22 – A little utility to track the performance of a SRCDS server.
@@ -77,17 +77,17 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Caching
 
-* [steam-lancache-prefill](https://github.com/tpill90/steam-lancache-prefill) ⭐ 449 | 🐛 15 | 🌐 C# | 📅 2026-08-02 – A self-contained, portable alternative to lancache-autofill with more features for steam games
+* [steam-lancache-prefill](https://github.com/tpill90/steam-lancache-prefill) ⭐ 453 | 🐛 15 | 🌐 C# | 📅 2026-08-02 – A self-contained, portable alternative to lancache-autofill with more features for steam games
 * [lancache](https://github.com/bntjah/lancache) ⭐ 184 | 🐛 45 | 🌐 Shell | 📅 2021-03-09
 * [lancache-autofill](https://github.com/zeropingheroes/lancache-autofill) ⭐ 132 | 🐛 21 | 🌐 PHP | 📅 2022-06-21 – A script to fill a lan caching server
 * [battlenet-lancache-prefill](https://github.com/tpill90/battlenet-lancache-prefill) ⭐ 117 | 🐛 11 | 🌐 C# | 📅 2026-07-26 – A self-contained, portable alternative to lancache-autofill with more features for battlenet games
 * [origin-docker](https://github.com/OpenSourceLAN/origin-docker) ⭐ 78 | 🐛 5 | 🌐 Shell | 📅 2021-11-12 – Single docker image that will serves most major CDNs
-* [LANCache Manager](https://github.com/regix1/lancache-manager) ⭐ 33 | 🐛 5 | 🌐 C# | 📅 2026-08-19 - LANCache Manager is a simple web UI for monitoring and managing your LANCache. You can watch downloads in real time, see which games are cached, measure bandwidth savings, and prefill the cache with Steam and Epic games before LAN parties.
+* [LANCache Manager](https://github.com/regix1/lancache-manager) ⭐ 33 | 🐛 5 | 🌐 C# | 📅 2026-08-20 - LANCache Manager is a simple web UI for monitoring and managing your LANCache. You can watch downloads in real time, see which games are cached, measure bandwidth savings, and prefill the cache with Steam and Epic games before LAN parties.
 * [LanCache.net](https://lancache.net/)
 
 ### Monitoring
 
-* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 90,339 | 🐛 792 | 🌐 JavaScript | 📅 2026-08-19 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
+* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 90,384 | 🐛 793 | 🌐 JavaScript | 📅 2026-08-20 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
 * [checkmk-RCONserver](https://github.com/Hornochs/checkmk-RCONserver) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-10-20 – A local check for CheckMK to monitor GoldSrc Games (CS 1.6, Ricochet etc) and Source Games (CS:GO etc.).
 * [CheckMK](https://checkmk.com) – Free Monitoring System that can monitor almost everything and if a check is missing, write you own simple check.
 
@@ -110,4 +110,4 @@ Software that is not specifically made for LAN Parties, but is helpful for LAN P
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

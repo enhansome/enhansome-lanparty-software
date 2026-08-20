@@ -166,7 +166,7 @@
                 "last_commit": "2026-08-14T20:17:23Z",
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9159
+                "stars": 9160
               }
             },
             {
@@ -253,7 +253,7 @@
                 "archived": false,
                 "id": 89149872,
                 "language": "Go",
-                "last_commit": "2026-08-17T11:02:22Z",
+                "last_commit": "2026-08-19T20:08:13Z",
                 "owner": "galexrt",
                 "repo": "srcds_exporter",
                 "stars": 31
@@ -577,7 +577,7 @@
                 "last_commit": "2026-08-02T21:12:43Z",
                 "owner": "tpill90",
                 "repo": "steam-lancache-prefill",
-                "stars": 449
+                "stars": 453
               }
             },
             {
@@ -649,7 +649,7 @@
                 "archived": false,
                 "id": 1043040666,
                 "language": "C#",
-                "last_commit": "2026-08-19T11:58:28Z",
+                "last_commit": "2026-08-20T11:01:41Z",
                 "owner": "regix1",
                 "repo": "lancache-manager",
                 "stars": 33
@@ -671,10 +671,10 @@
                 "archived": false,
                 "id": 382496361,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T00:33:12Z",
+                "last_commit": "2026-08-20T00:33:05Z",
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 90339
+                "stars": 90384
               }
             },
             {
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:39:39.871Z",
+    "last_updated": "2026-08-20T11:05:37.906Z",
     "original_repository": "LANparties/awesome-lanparty-software",
     "original_repository_id": 217301670,
     "original_repository_sha": "b48450e0ba570f020ffabc4d8d4e218b49b705a6",

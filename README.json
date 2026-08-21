@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 295786968,
                 "language": "PHP",
-                "last_commit": "2026-08-13T17:10:55Z",
+                "last_commit": "2026-08-20T14:08:20Z",
                 "owner": "Lan2Play",
                 "repo": "eventula-manager",
                 "stars": 34
@@ -166,7 +166,7 @@
                 "last_commit": "2026-08-14T20:17:23Z",
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9160
+                "stars": 9164
               }
             },
             {
@@ -577,7 +577,7 @@
                 "last_commit": "2026-08-02T21:12:43Z",
                 "owner": "tpill90",
                 "repo": "steam-lancache-prefill",
-                "stars": 453
+                "stars": 456
               }
             },
             {
@@ -649,7 +649,7 @@
                 "archived": false,
                 "id": 1043040666,
                 "language": "C#",
-                "last_commit": "2026-08-20T11:01:41Z",
+                "last_commit": "2026-08-21T00:34:28Z",
                 "owner": "regix1",
                 "repo": "lancache-manager",
                 "stars": 33
@@ -671,10 +671,10 @@
                 "archived": false,
                 "id": 382496361,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T00:33:05Z",
+                "last_commit": "2026-08-21T10:54:22Z",
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 90384
+                "stars": 90432
               }
             },
             {
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:05:37.906Z",
+    "last_updated": "2026-08-21T11:04:33.876Z",
     "original_repository": "LANparties/awesome-lanparty-software",
     "original_repository_id": 217301670,
     "original_repository_sha": "b48450e0ba570f020ffabc4d8d4e218b49b705a6",

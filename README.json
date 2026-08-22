@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 14088050,
                 "language": "PHP",
-                "last_commit": "2026-08-16T20:07:02Z",
+                "last_commit": "2026-08-21T22:39:53Z",
                 "owner": "zeropingheroes",
                 "repo": "lanager",
                 "stars": 132
@@ -166,7 +166,7 @@
                 "last_commit": "2026-08-14T20:17:23Z",
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9164
+                "stars": 9167
               }
             },
             {
@@ -649,7 +649,7 @@
                 "archived": false,
                 "id": 1043040666,
                 "language": "C#",
-                "last_commit": "2026-08-21T00:34:28Z",
+                "last_commit": "2026-08-22T06:11:19Z",
                 "owner": "regix1",
                 "repo": "lancache-manager",
                 "stars": 33
@@ -671,10 +671,10 @@
                 "archived": false,
                 "id": 382496361,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T10:54:22Z",
+                "last_commit": "2026-08-22T09:20:48Z",
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 90432
+                "stars": 90460
               }
             },
             {
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:04:33.876Z",
+    "last_updated": "2026-08-22T11:00:54.082Z",
     "original_repository": "LANparties/awesome-lanparty-software",
     "original_repository_id": 217301670,
     "original_repository_sha": "b48450e0ba570f020ffabc4d8d4e218b49b705a6",

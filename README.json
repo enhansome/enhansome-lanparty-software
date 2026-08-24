@@ -166,7 +166,7 @@
                 "last_commit": "2026-08-14T20:17:23Z",
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9173
+                "stars": 9174
               }
             },
             {
@@ -455,6 +455,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "procurve_conf",
+              "description": "A little script to put configs on HP ProCurve switches.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111330727,
+                "language": "Python",
+                "last_commit": "2019-04-13T07:21:15Z",
+                "owner": "991jo",
+                "repo": "procurve-conf",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Switch Configuration Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "QStat",
               "description": "\"A command-line program that displays information about Internet game servers.\"",
               "children": [],
@@ -674,7 +696,7 @@
                 "last_commit": "2026-08-24T03:32:09Z",
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 90551
+                "stars": 90558
               }
             },
             {
@@ -696,13 +718,35 @@
           "description": null,
           "node_type": "group",
           "title": "Monitoring"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "reboot-lan",
+              "description": "\"lanning + Infra for reBOOT LAN Party\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152191394,
+                "language": "HTML",
+                "last_commit": "2019-12-07T15:01:47Z",
+                "owner": "Fohdeesha",
+                "repo": "reboot-lan",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Uncategorized"
         }
       ],
       "title": "Software"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:13:03.283Z",
+    "last_updated": "2026-08-24T14:32:28.176Z",
     "original_repository": "LANparties/awesome-lanparty-software",
     "original_repository_id": 217301670,
     "original_repository_sha": "b48450e0ba570f020ffabc4d8d4e218b49b705a6",

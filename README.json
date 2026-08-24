@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 14088050,
                 "language": "PHP",
-                "last_commit": "2026-08-23T09:26:17Z",
+                "last_commit": "2026-08-23T20:16:23Z",
                 "owner": "zeropingheroes",
                 "repo": "lanager",
                 "stars": 132
@@ -166,7 +166,7 @@
                 "last_commit": "2026-08-14T20:17:23Z",
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9169
+                "stars": 9173
               }
             },
             {
@@ -574,7 +574,7 @@
                 "archived": false,
                 "id": 508778147,
                 "language": "C#",
-                "last_commit": "2026-08-02T21:12:43Z",
+                "last_commit": "2026-08-24T00:29:58Z",
                 "owner": "tpill90",
                 "repo": "steam-lancache-prefill",
                 "stars": 456
@@ -649,10 +649,10 @@
                 "archived": false,
                 "id": 1043040666,
                 "language": "C#",
-                "last_commit": "2026-08-23T06:33:42Z",
+                "last_commit": "2026-08-24T03:19:40Z",
                 "owner": "regix1",
                 "repo": "lancache-manager",
-                "stars": 33
+                "stars": 34
               }
             }
           ],
@@ -671,10 +671,10 @@
                 "archived": false,
                 "id": 382496361,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T00:04:59Z",
+                "last_commit": "2026-08-24T03:32:09Z",
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 90498
+                "stars": 90551
               }
             },
             {
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:01:44.450Z",
+    "last_updated": "2026-08-24T11:13:03.283Z",
     "original_repository": "LANparties/awesome-lanparty-software",
     "original_repository_id": 217301670,
     "original_repository_sha": "b48450e0ba570f020ffabc4d8d4e218b49b705a6",

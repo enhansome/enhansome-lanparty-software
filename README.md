@@ -87,7 +87,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Monitoring
 
-* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 90,584 | 🐛 787 | 🌐 JavaScript | 📅 2026-08-25 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
+* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 90,592 | 🐛 789 | 🌐 JavaScript | 📅 2026-08-25 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
 * [checkmk-RCONserver](https://github.com/Hornochs/checkmk-RCONserver) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-10-20 – A local check for CheckMK to monitor GoldSrc Games (CS 1.6, Ricochet etc) and Source Games (CS:GO etc.).
 * [CheckMK](https://checkmk.com) – Free Monitoring System that can monitor almost everything and if a check is missing, write you own simple check.
 
@@ -102,7 +102,7 @@ Software that is not specifically made for LAN Parties, but is helpful for LAN P
 ### Digital signage
 
 * [Anthias](https://anthias.screenly.io/) - Lightweight digital signage. Upload images and videos via a webinterface that will be displayed on a HDMI Display. Primarily for Raspberry Pi
-* [Infoscreen4](https://github.com/reaby/infoscreen4) ⭐ 5 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-06 - Create and publish content to multiple screens from one place
+* [Infoscreen4](https://github.com/reaby/infoscreen4) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-25 - Create and publish content to multiple screens from one place
 
 ### Shops
 

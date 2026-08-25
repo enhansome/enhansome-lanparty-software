@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 14088050,
                 "language": "PHP",
-                "last_commit": "2026-08-23T20:16:23Z",
+                "last_commit": "2026-08-24T21:27:12Z",
                 "owner": "zeropingheroes",
                 "repo": "lanager",
                 "stars": 132
@@ -596,7 +596,7 @@
                 "archived": false,
                 "id": 508778147,
                 "language": "C#",
-                "last_commit": "2026-08-24T00:29:58Z",
+                "last_commit": "2026-08-25T00:07:32Z",
                 "owner": "tpill90",
                 "repo": "steam-lancache-prefill",
                 "stars": 456
@@ -671,7 +671,7 @@
                 "archived": false,
                 "id": 1043040666,
                 "language": "C#",
-                "last_commit": "2026-08-24T03:19:40Z",
+                "last_commit": "2026-08-25T04:38:14Z",
                 "owner": "regix1",
                 "repo": "lancache-manager",
                 "stars": 34
@@ -693,10 +693,10 @@
                 "archived": false,
                 "id": 382496361,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T03:32:09Z",
+                "last_commit": "2026-08-25T00:05:49Z",
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 90558
+                "stars": 90584
               }
             },
             {
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:32:28.176Z",
+    "last_updated": "2026-08-25T06:24:35.329Z",
     "original_repository": "LANparties/awesome-lanparty-software",
     "original_repository_id": 217301670,
     "original_repository_sha": "b48450e0ba570f020ffabc4d8d4e218b49b705a6",

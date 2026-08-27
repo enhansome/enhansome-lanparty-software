@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 295786968,
                 "language": "PHP",
-                "last_commit": "2026-08-22T18:48:41Z",
+                "last_commit": "2026-08-26T15:44:35Z",
                 "owner": "Lan2Play",
                 "repo": "eventula-manager",
                 "stars": 34
@@ -166,7 +166,7 @@
                 "last_commit": "2026-08-14T20:17:23Z",
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9178
+                "stars": 9181
               }
             },
             {
@@ -671,7 +671,7 @@
                 "archived": false,
                 "id": 1043040666,
                 "language": "C#",
-                "last_commit": "2026-08-26T00:58:17Z",
+                "last_commit": "2026-08-27T06:01:52Z",
                 "owner": "regix1",
                 "repo": "lancache-manager",
                 "stars": 34
@@ -693,10 +693,10 @@
                 "archived": false,
                 "id": 382496361,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T03:26:05Z",
+                "last_commit": "2026-08-27T01:59:56Z",
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 90627
+                "stars": 90664
               }
             },
             {
@@ -746,9 +746,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:13:37.496Z",
-    "original_repository": "LANparties/awesome-lanparty-software",
-    "original_repository_id": 217301670,
+    "last_updated": "2026-08-27T11:46:10.861Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 217301670,
+      "language": null,
+      "last_commit": "2026-06-11T20:30:51Z",
+      "owner": "LANparties",
+      "repo": "awesome-lanparty-software",
+      "stars": 194
+    },
     "original_repository_sha": "b48450e0ba570f020ffabc4d8d4e218b49b705a6",
     "enhanced_repository": "enhansome/enhansome-lanparty-software",
     "enhanced_repository_description": null,

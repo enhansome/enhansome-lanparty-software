@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 295786968,
                 "language": "PHP",
-                "last_commit": "2026-08-26T15:44:35Z",
+                "last_commit": "2026-08-27T12:41:47Z",
                 "owner": "Lan2Play",
                 "repo": "eventula-manager",
                 "stars": 34
@@ -166,7 +166,7 @@
                 "last_commit": "2026-08-14T20:17:23Z",
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9181
+                "stars": 9185
               }
             },
             {
@@ -671,7 +671,7 @@
                 "archived": false,
                 "id": 1043040666,
                 "language": "C#",
-                "last_commit": "2026-08-27T06:01:52Z",
+                "last_commit": "2026-08-27T20:06:03Z",
                 "owner": "regix1",
                 "repo": "lancache-manager",
                 "stars": 34
@@ -696,7 +696,7 @@
                 "last_commit": "2026-08-27T01:59:56Z",
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 90664
+                "stars": 90687
               }
             },
             {
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:46:10.861Z",
+    "last_updated": "2026-08-27T20:47:21.010Z",
     "original_repository_info": {
       "archived": false,
       "id": 217301670,

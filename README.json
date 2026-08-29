@@ -17,7 +17,7 @@
                 "id": 14088050,
                 "language": "PHP",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-28T23:07:30Z",
+                "last_commit": "2026-08-29T14:35:55Z",
                 "open_issues": 3,
                 "owner": "zeropingheroes",
                 "repo": "lanager",
@@ -1044,7 +1044,7 @@
                 "id": 1043040666,
                 "language": "C#",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T04:14:07Z",
+                "last_commit": "2026-08-29T14:23:53Z",
                 "open_issues": 4,
                 "owner": "regix1",
                 "repo": "lancache-manager",
@@ -1093,11 +1093,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T00:06:13Z",
-                "open_issues": 792,
+                "last_commit": "2026-08-29T11:49:53Z",
+                "open_issues": 791,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 90721,
+                "stars": 90735,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1174,7 +1174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:51:23.179Z",
+    "last_updated": "2026-08-29T15:20:33.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",

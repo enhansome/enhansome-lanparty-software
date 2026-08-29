@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LAN party management web application",
+                "homepage": null,
                 "id": 14088050,
                 "language": "PHP",
-                "last_commit": "2026-08-28T19:34:11Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-28T23:07:30Z",
+                "open_issues": 3,
                 "owner": "zeropingheroes",
                 "repo": "lanager",
-                "stars": 132
+                "stars": 132,
+                "topics": [
+                  "gaming",
+                  "lanparty",
+                  "steam"
+                ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -28,12 +37,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lan Party Event Manager App ",
+                "homepage": "https://eventula.lan2play.de",
                 "id": 295786968,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T12:41:47Z",
+                "open_issues": 158,
                 "owner": "Lan2Play",
                 "repo": "eventula-manager",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -44,12 +58,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A web app for LAN parties designed to be a simple, central information hub for all attendees.",
+                "homepage": null,
                 "id": 48682897,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-09-13T21:48:38Z",
+                "open_issues": 9,
                 "owner": "tannerkrewson",
                 "repo": "lansite",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -60,12 +79,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KRRU LAN-Party Management System",
+                "homepage": null,
                 "id": 242409432,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2025-09-17T10:26:19Z",
+                "open_issues": 5,
                 "owner": "KRRUg",
                 "repo": "KLMS",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -76,12 +100,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Guest management/communication application for LANs (LAN parties).",
+                "homepage": null,
                 "id": 7157824,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-01-21T20:12:36Z",
+                "open_issues": 0,
                 "owner": "mfairchild365",
                 "repo": "lan",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -92,12 +121,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ancient (Early 2002 and earlier) PHP for Lanparty intranets",
+                "homepage": null,
                 "id": 69290577,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2016-09-26T20:49:16Z",
+                "open_issues": 0,
                 "owner": "TcT2k",
                 "repo": "lansurfer_intranet",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -108,12 +142,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "LANshock is a modular ColdFusion platform written in CFML and requires Adobe ColdFusion 7 or Railo 2.0. As there are many different modules, running a weblog is as easy as managing a lanparty with tournaments and much more.",
+                "homepage": "http://lanshock.com/",
                 "id": 43804392,
                 "language": "ColdFusion",
+                "license": "GPL-2.0",
                 "last_commit": "2015-10-07T08:50:42Z",
+                "open_issues": 0,
                 "owner": "bkonetzny",
                 "repo": "LANshock",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "cfml",
+                  "coldfusion",
+                  "flexbox",
+                  "intranet",
+                  "lanparty",
+                  "railo"
+                ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             }
@@ -131,12 +177,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Collection of integrated Ansible roles used to run LAN events.",
+                "homepage": null,
                 "id": 46894219,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2017-09-08T21:00:29Z",
+                "open_issues": 3,
                 "owner": "ti-mo",
                 "repo": "ansible-lanparty",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "iptables-configurations",
+                  "lxc",
+                  "nginx-proxy",
+                  "openvswitch",
+                  "srcds"
+                ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -147,12 +204,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Puppet module to fully deploy all neccesarry services to run a LAN party at any size with ease",
+                "homepage": null,
                 "id": 171012723,
                 "language": "Puppet",
+                "license": "GPL-3.0",
                 "last_commit": "2023-11-02T13:27:29Z",
+                "open_issues": 0,
                 "owner": "pseiler",
                 "repo": "puppet-lanserver",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "automation",
+                  "bash-script",
+                  "dnsmasq",
+                  "hosting",
+                  "httpd",
+                  "inotifywatch",
+                  "lan",
+                  "lanparty",
+                  "lanserver",
+                  "ngircd",
+                  "opentracker",
+                  "party",
+                  "puppet",
+                  "server",
+                  "torrent",
+                  "transmission-daemon"
+                ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             }
@@ -170,12 +249,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
+                "homepage": "https://pterodactyl.io",
                 "id": 47508644,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-14T20:17:23Z",
+                "open_issues": 177,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9187
+                "stars": 9187,
+                "topics": [
+                  "docker",
+                  "free",
+                  "games",
+                  "golang",
+                  "laravel",
+                  "management-system",
+                  "mit",
+                  "opensource",
+                  "php",
+                  "react",
+                  "tailwindcss",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -186,12 +283,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CS:GO Sourcemod plugin for competitive matches/scrims",
+                "homepage": null,
                 "id": 48971321,
                 "language": "SourcePawn",
+                "license": "GPL-3.0",
                 "last_commit": "2023-11-14T11:57:20Z",
+                "open_issues": 12,
                 "owner": "splewis",
                 "repo": "get5",
-                "stars": 558
+                "stars": 558,
+                "topics": [
+                  "counter-strike",
+                  "counter-strike-global-offensive",
+                  "csgo",
+                  "get5",
+                  "sourcemod"
+                ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -202,12 +310,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The eBot is a full managed server-bot written in PHP and nodeJS. eBot features easy match creation and tons of player and matchstats. Once it's setup, using the eBot is simple and fast.",
+                "homepage": "http://www.esport-tools.net/ebot",
                 "id": 6205813,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2023-11-07T08:48:15Z",
+                "open_issues": 10,
                 "owner": "deStrO",
                 "repo": "eBot-CSGO",
-                "stars": 383
+                "stars": 383,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -218,12 +331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pugsharp is a PUG System Plugin for CS2 based on the awesome CounterStrikeSharp by roflmuffin. Its intended purpose is to be used with our fork of eventula, but ofc can be used in a different environment as well. We also try to build an compatible api with most apis of the awesome Get5.",
+                "homepage": null,
                 "id": 709465820,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-16T20:42:41Z",
+                "open_issues": 32,
                 "owner": "Lan2Play",
                 "repo": "PugSharp",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -234,12 +352,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐿️ A CLI for managing game servers using Docker.",
+                "homepage": "https://wilfredproject.org",
                 "id": 231204185,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-06T16:28:30Z",
+                "open_issues": 14,
                 "owner": "wilfred-dev",
                 "repo": "wilfred",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "cli",
+                  "docker",
+                  "game-server",
+                  "game-servers",
+                  "linux",
+                  "minecraft",
+                  "python",
+                  "wilfred"
+                ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -250,12 +382,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TMT2 - Tournament Match Tracker 2: Supervise/Manage Counter-Strike 2 matches with ease!",
+                "homepage": null,
                 "id": 295566655,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-23T17:54:57Z",
+                "open_issues": 5,
                 "owner": "JensForstmann",
                 "repo": "tmt2",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "counter-strike",
+                  "counter-strike-2",
+                  "cs2",
+                  "cs2-bot",
+                  "cs2-server-administration",
+                  "cs2-tournament"
+                ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -266,12 +410,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prometheus exporter for SRCDS Gameserver using Source RCON.",
+                "homepage": null,
                 "id": 89149872,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T23:32:15Z",
+                "open_issues": 4,
                 "owner": "galexrt",
                 "repo": "srcds_exporter",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "prometheus",
+                  "prometheus-exporter",
+                  "srcds"
+                ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -282,12 +435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All the info and configs you need to run kubernetes for a LAN party!",
+                "homepage": null,
                 "id": 144433015,
                 "language": "Smarty",
+                "license": null,
                 "last_commit": "2022-10-03T08:57:56Z",
+                "open_issues": 0,
                 "owner": "OpenSourceLAN",
                 "repo": "kubernetes-lanparty",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -298,12 +456,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an prometheus exporter for SRCDS based gameservers (like CSGO, TF2, L4D2, ...).",
+                "homepage": null,
                 "id": 163870234,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-03-20T00:22:40Z",
+                "open_issues": 4,
                 "owner": "991jo",
                 "repo": "srcds_exporter",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "csgo",
+                  "css",
+                  "fof",
+                  "game-server",
+                  "gmod",
+                  "hl2dm",
+                  "l4d2",
+                  "monitoring",
+                  "prometheus-exporter",
+                  "srcds",
+                  "srcds-exporter",
+                  "teamfortress2",
+                  "tf2"
+                ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -314,12 +491,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A little utility to track the performance of a SRCDS server",
+                "homepage": null,
                 "id": 59350941,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2016-05-22T00:39:56Z",
+                "open_issues": 1,
                 "owner": "OpenSourceLAN",
                 "repo": "srcds-perfmon",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -330,12 +512,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 994679295,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-01-30T13:00:16Z",
+                "open_issues": 1,
                 "owner": "DuelistRag3",
                 "repo": "cs2-pugsharp-manager",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -346,12 +533,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A scanner to find gameservers in a network.",
+                "homepage": null,
                 "id": 106398687,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-01-09T19:21:24Z",
+                "open_issues": 0,
                 "owner": "991jo",
                 "repo": "lan-game-scanner",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -362,12 +554,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of tools to simplify hosting of Lan parties with cloud tools.",
+                "homepage": null,
                 "id": 716721006,
                 "language": "HCL",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-03-29T20:44:41Z",
+                "open_issues": 3,
                 "owner": "cloudlan-tools",
                 "repo": "cloudlan-tools",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -378,12 +575,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Webinterface für LAN-Partys zum einfachen starten/stoppen/verwalten von Gameservern.",
+                "homepage": "http://www.amshove.net/wiki/webinterfaces:gameserver",
                 "id": 12018299,
                 "language": "PHP",
+                "license": "GPL-2.0",
                 "last_commit": "2018-02-08T14:54:46Z",
+                "open_issues": 10,
                 "owner": "amshove",
                 "repo": "gameserver_webinterface",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -394,12 +596,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A little application that show the status of SRCDS servers (csgo, tf2, hl2dm, ...)",
+                "homepage": null,
                 "id": 214502375,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2019-12-12T07:02:42Z",
+                "open_issues": 0,
                 "owner": "991jo",
                 "repo": "srcdstop",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "csgo",
+                  "hl2dm",
+                  "srcds",
+                  "tf2"
+                ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -410,12 +622,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a very minimal script to generate GSLT tokens.",
+                "homepage": null,
                 "id": 189668937,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-07-16T16:30:25Z",
+                "open_issues": 0,
                 "owner": "991jo",
                 "repo": "gsltctrl_minimal",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -426,12 +643,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Discord",
+                "homepage": "https://discord.gg/fYHEkNHDTz",
                 "id": 932140611,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-18T17:54:54Z",
+                "open_issues": 1,
                 "owner": "Egosar93",
                 "repo": "standalone-rcon-client",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             }
@@ -449,12 +671,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bunch of game servers I use, dockerised",
+                "homepage": null,
                 "id": 48305766,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-14T12:55:26Z",
+                "open_issues": 8,
                 "owner": "OpenSourceLAN",
                 "repo": "gameservers-docker",
-                "stars": 546
+                "stars": 546,
+                "topics": [
+                  "csgo",
+                  "docker",
+                  "game",
+                  "game-server",
+                  "lan",
+                  "minecraft",
+                  "mumble",
+                  "quake3",
+                  "server",
+                  "tf2",
+                  "unreal"
+                ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -465,12 +704,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Archive for older Gameserver configs ",
+                "homepage": null,
                 "id": 1016085117,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-07-08T13:21:17Z",
+                "open_issues": 1,
                 "owner": "lan-dot-party",
                 "repo": "ESL-Configs",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             }
@@ -488,12 +732,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a little python script to configure HP ProCurve switches",
+                "homepage": null,
                 "id": 111330727,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-04-13T07:21:15Z",
+                "open_issues": 0,
                 "owner": "991jo",
                 "repo": "procurve-conf",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "configuration",
+                  "deploy-tool",
+                  "hp",
+                  "procurve",
+                  "switch"
+                ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             }
@@ -511,12 +766,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "New official qstat repository",
+                "homepage": null,
                 "id": 26681529,
                 "language": "C",
+                "license": "Artistic-2.0",
                 "last_commit": "2026-01-07T17:20:36Z",
+                "open_issues": 16,
                 "owner": "rocketsciencegg",
                 "repo": "qstat",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -527,12 +787,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple tool to forward UDP broadcasts (eg, gameserver discovery) between networks. ",
+                "homepage": null,
                 "id": 13236846,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2018-10-25T12:36:17Z",
+                "open_issues": 1,
                 "owner": "OpenSourceLAN",
                 "repo": "service-discovery-helper",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -543,12 +808,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast game server query tool",
+                "homepage": null,
                 "id": 47505577,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2017-02-10T19:57:53Z",
+                "open_issues": 1,
                 "owner": "vorot93",
                 "repo": "grokstat",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "game-server",
+                  "golang",
+                  "query"
+                ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -559,12 +833,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LAN Game Server Rebroadcaster over VLANs",
+                "homepage": null,
                 "id": 86719618,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-03-12T00:43:00Z",
+                "open_issues": 1,
                 "owner": "netwarlan",
                 "repo": "gamebridge",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -575,12 +854,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple WireGuard LAN Manager for gaming",
+                "homepage": null,
                 "id": 1152187844,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-09T09:44:40Z",
+                "open_issues": 0,
                 "owner": "SovereignBit",
                 "repo": "GamingLAN",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -591,12 +875,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This PYthon Project aims to push Webhook Notifications after finding a new Gameserver in the Network",
+                "homepage": null,
                 "id": 993153454,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-18T13:32:34Z",
+                "open_issues": 2,
                 "owner": "lan-dot-party",
                 "repo": "Discord-Gameserver-Notifier",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -607,12 +896,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Small CLI Tool that tracks the Internetspeed with the possibility of using Multiple Source-IP Addresses",
+                "homepage": null,
                 "id": 1109891547,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-03-02T19:41:11Z",
+                "open_issues": 7,
                 "owner": "lan-dot-party",
                 "repo": "FlowGauge",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             }
@@ -630,12 +924,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI tool to automatically prime a Lancache with Steam games",
+                "homepage": "https://tpill90.github.io/steam-lancache-prefill/",
                 "id": 508778147,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-25T00:07:32Z",
+                "open_issues": 14,
                 "owner": "tpill90",
                 "repo": "steam-lancache-prefill",
-                "stars": 458
+                "stars": 458,
+                "topics": [
+                  "lancache",
+                  "lancachenet",
+                  "steam",
+                  "steamkit",
+                  "steamkit2"
+                ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -646,12 +951,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Improve download speeds and reduce strain on your Internet connection at LAN parties. Locally cache game installs and updates from the largest distributors: Steam, RIOT, Blizard, Hirez, Origin, Sony, Microsoft, Tera, GOG, ArenaNetworks, WarGaming, and Uplay.  Super easy to setup with auto installer script!",
+                "homepage": null,
                 "id": 48762417,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2021-03-09T18:30:55Z",
+                "open_issues": 45,
                 "owner": "bntjah",
                 "repo": "lancache",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -662,12 +972,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically fill a Lancache with content",
+                "homepage": null,
                 "id": 80991135,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2022-06-21T17:42:50Z",
+                "open_issues": 21,
                 "owner": "zeropingheroes",
                 "repo": "lancache-autofill",
-                "stars": 132
+                "stars": 132,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -678,12 +993,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI tool to automatically prefill a Lancache with Battle.Net games",
+                "homepage": "https://tpill90.github.io/battlenet-lancache-prefill/",
                 "id": 399651224,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-07-26T23:33:49Z",
+                "open_issues": 11,
                 "owner": "tpill90",
                 "repo": "battlenet-lancache-prefill",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "battlenet",
+                  "lancache",
+                  "lancachenet"
+                ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -694,12 +1018,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A super simple docker container to run a LAN cache for steam, origin, etc",
+                "homepage": null,
                 "id": 54722535,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2021-11-12T02:10:40Z",
+                "open_issues": 5,
                 "owner": "OpenSourceLAN",
                 "repo": "origin-docker",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -710,12 +1039,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  LANCache Manager - Self-hosted web dashboard for monitoring Lancache data, Real-time download tracking, bandwidth analytics, cache management, and client monitoring. Docker deployment with Prometheus metrics and Grafana integration.",
+                "homepage": null,
                 "id": 1043040666,
                 "language": "C#",
-                "last_commit": "2026-08-28T20:50:48Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T04:14:07Z",
+                "open_issues": 4,
                 "owner": "regix1",
                 "repo": "lancache-manager",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "cache-server",
+                  "dashboard",
+                  "data",
+                  "docker",
+                  "game-cache",
+                  "grafana",
+                  "lancache",
+                  "lancache-interface",
+                  "lancache-manager",
+                  "lancache-ui",
+                  "lancachenet",
+                  "lancacheui",
+                  "prefill",
+                  "prometheus",
+                  "react",
+                  "rust",
+                  "self-hosted",
+                  "steam-prefill",
+                  "ui",
+                  "web-interface"
+                ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             }
@@ -733,12 +1088,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fancy self-hosted monitoring tool",
+                "homepage": "https://uptime.kuma.pet",
                 "id": 382496361,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T04:55:02Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:06:13Z",
+                "open_issues": 792,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 90721
+                "stars": 90721,
+                "topics": [
+                  "docker",
+                  "monitor",
+                  "monitoring",
+                  "responsive",
+                  "self-hosted",
+                  "selfhosted",
+                  "single-page-app",
+                  "socket-io",
+                  "uptime",
+                  "uptime-monitoring",
+                  "webapp",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             },
@@ -749,12 +1122,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Local CheckMK Check to monitor HLDS1 Servers like Counter-Strike 1.6, Half-Life Deathmatch or Ricochet or Source Dedicated Servers like Counter-Strike Source, CS:GO ",
+                "homepage": null,
                 "id": 377470234,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-20T16:10:48Z",
+                "open_issues": 0,
                 "owner": "Hornochs",
                 "repo": "checkmk-RCONserver",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             }
@@ -772,12 +1150,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Planning + Infra for reBOOT LAN Party ",
+                "homepage": null,
                 "id": 152191394,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2019-12-07T15:01:47Z",
+                "open_issues": 0,
                 "owner": "Fohdeesha",
                 "repo": "reboot-lan",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
             }
@@ -791,15 +1174,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:15:11.928Z",
+    "last_updated": "2026-08-29T04:51:23.179Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",
+      "homepage": null,
       "id": 217301670,
       "language": null,
+      "license": null,
       "last_commit": "2026-06-11T20:30:51Z",
+      "open_issues": 2,
       "owner": "LANparties",
       "repo": "awesome-lanparty-software",
-      "stars": 194
+      "stars": 194,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "game-servers",
+        "intranet",
+        "lan-party",
+        "lanparty"
+      ]
     },
     "original_repository_sha": "b48450e0ba570f020ffabc4d8d4e218b49b705a6",
     "enhanced_repository": "enhansome/enhansome-lanparty-software",

@@ -258,7 +258,7 @@
                 "open_issues": 179,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9203,
+                "stars": 9207,
                 "topics": [
                   "docker",
                   "free",
@@ -930,10 +930,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-25T00:07:32Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "tpill90",
                 "repo": "steam-lancache-prefill",
-                "stars": 459,
+                "stars": 460,
                 "topics": [
                   "lancache",
                   "lancachenet",
@@ -999,10 +999,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-07-26T23:33:49Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "tpill90",
                 "repo": "battlenet-lancache-prefill",
-                "stars": 118,
+                "stars": 119,
                 "topics": [
                   "battlenet",
                   "lancache",
@@ -1044,7 +1044,7 @@
                 "id": 1043040666,
                 "language": "C#",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-02T04:27:12Z",
+                "last_commit": "2026-09-03T12:25:38Z",
                 "open_issues": 5,
                 "owner": "regix1",
                 "repo": "lancache-manager",
@@ -1093,11 +1093,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T00:06:57Z",
-                "open_issues": 794,
+                "last_commit": "2026-09-03T09:09:24Z",
+                "open_issues": 796,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 90876,
+                "stars": 90928,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1174,7 +1174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T14:43:29.078Z",
+    "last_updated": "2026-09-03T14:44:09.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",

@@ -13,8 +13,8 @@ If you are not sure where to put something, open an issue instead ;)
 
 * [LANager](https://github.com/zeropingheroes/lanager) ⭐ 132 | 🐛 3 | 🌐 PHP | 📅 2026-09-01 – "LAN party management web application"
 * [Lan2Play's Eventula Event Manager](https://github.com/Lan2Play/eventula-manager) ⭐ 34 | 🐛 158 | 🌐 PHP | 📅 2026-09-01 – Event Ticket & Management System with (automated) Tournament support and lots of features
+* [KRRU LAN-Party Management System](https://github.com/KRRUg/KLMS) ⭐ 15 | 🐛 5 | 🌐 PHP | 📅 2025-09-17 - CMS (Content management system) for LAN-Parties. Everything you need to present and manage your event in a modern design.
 * [Lansite](https://github.com/tannerkrewson/lansite) ⭐ 15 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-13 – "A web app for LAN parties designed to be a simple, central information hub for all attendees"
-* [KRRU LAN-Party Management System](https://github.com/KRRUg/KLMS) ⭐ 14 | 🐛 5 | 🌐 PHP | 📅 2025-09-17 - CMS (Content management system) for LAN-Parties. Everything you need to present and manage your event in a modern design.
 * [LAN](https://github.com/mfairchild365/lan) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2013-01-21 – "Guest management/communication application for LANs (LAN parties)"
 * [LanSurfer Intranet](https://github.com/TcT2k/lansurfer_intranet) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2016-09-26 – "LanSurfer was a european portal for organizing LAN parties available around the Year 2000. This is the the ancient PHP intranet component that was available for LAN parties." `historical`
 * [LANshock](https://github.com/bkonetzny/LANshock) ⚠️ Archived – `historical`
@@ -31,7 +31,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Gameserver Management
 
-* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,207 | 🐛 179 | 🌐 PHP | 📅 2026-08-14 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
+* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,212 | 🐛 179 | 🌐 PHP | 📅 2026-08-14 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
 * [get5](https://github.com/splewis/get5) ⭐ 558 | 🐛 12 | 🌐 SourcePawn | 📅 2023-11-14 – CS:GO Sourcemod plugin for competitive matches/scrims.
 * [eBot](https://github.com/deStrO/eBot-CSGO) ⭐ 383 | 🐛 10 | 🌐 PHP | 📅 2023-11-07 – CSGO Server Bot for easy match creation (might be outdated).
 * [PugSharp](https://github.com/Lan2Play/PugSharp) ⭐ 61 | 🐛 32 | 🌐 C# | 📅 2026-02-16 - CS2 CS# plugin for competitive matches/scrims, with api compatibility to get5.
@@ -82,12 +82,12 @@ If you are not sure where to put something, open an issue instead ;)
 * [lancache-autofill](https://github.com/zeropingheroes/lancache-autofill) ⭐ 132 | 🐛 21 | 🌐 PHP | 📅 2022-06-21 – A script to fill a lan caching server
 * [battlenet-lancache-prefill](https://github.com/tpill90/battlenet-lancache-prefill) ⭐ 119 | 🐛 12 | 🌐 C# | 📅 2026-07-26 – A self-contained, portable alternative to lancache-autofill with more features for battlenet games
 * [origin-docker](https://github.com/OpenSourceLAN/origin-docker) ⭐ 78 | 🐛 5 | 🌐 Shell | 📅 2021-11-12 – Single docker image that will serves most major CDNs
-* [LANCache Manager](https://github.com/regix1/lancache-manager) ⭐ 34 | 🐛 5 | 🌐 C# | 📅 2026-09-03 - LANCache Manager is a simple web UI for monitoring and managing your LANCache. You can watch downloads in real time, see which games are cached, measure bandwidth savings, and prefill the cache with Steam and Epic games before LAN parties.
+* [LANCache Manager](https://github.com/regix1/lancache-manager) ⭐ 34 | 🐛 6 | 🌐 C# | 📅 2026-09-04 - LANCache Manager is a simple web UI for monitoring and managing your LANCache. You can watch downloads in real time, see which games are cached, measure bandwidth savings, and prefill the cache with Steam and Epic games before LAN parties.
 * [LanCache.net](https://lancache.net/)
 
 ### Monitoring
 
-* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 90,928 | 🐛 796 | 🌐 JavaScript | 📅 2026-09-03 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
+* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 90,964 | 🐛 798 | 🌐 JavaScript | 📅 2026-09-04 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
 * [checkmk-RCONserver](https://github.com/Hornochs/checkmk-RCONserver) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-10-20 – A local check for CheckMK to monitor GoldSrc Games (CS 1.6, Ricochet etc) and Source Games (CS:GO etc.).
 * [CheckMK](https://checkmk.com) – Free Monitoring System that can monitor almost everything and if a check is missing, write you own simple check.
 
@@ -110,4 +110,4 @@ Software that is not specifically made for LAN Parties, but is helpful for LAN P
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

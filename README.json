@@ -53,6 +53,27 @@
             },
             {
               "node_type": "item",
+              "title": "KRRU LAN-Party Management System",
+              "description": "CMS (Content management system) for LAN-Parties. Everything you need to present and manage your event in a modern design.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "KRRU LAN-Party Management System",
+                "homepage": null,
+                "id": 242409432,
+                "language": "PHP",
+                "license": "GPL-3.0",
+                "last_commit": "2025-09-17T10:26:19Z",
+                "open_issues": 5,
+                "owner": "KRRUg",
+                "repo": "KLMS",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:15:11.928Z"
+            },
+            {
+              "node_type": "item",
               "title": "Lansite",
               "description": "\"A web app for LAN parties designed to be a simple, central information hub for all attendees\"",
               "children": [],
@@ -68,27 +89,6 @@
                 "owner": "tannerkrewson",
                 "repo": "lansite",
                 "stars": 15,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:15:11.928Z"
-            },
-            {
-              "node_type": "item",
-              "title": "KRRU LAN-Party Management System",
-              "description": "CMS (Content management system) for LAN-Parties. Everything you need to present and manage your event in a modern design.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "KRRU LAN-Party Management System",
-                "homepage": null,
-                "id": 242409432,
-                "language": "PHP",
-                "license": "GPL-3.0",
-                "last_commit": "2025-09-17T10:26:19Z",
-                "open_issues": 5,
-                "owner": "KRRUg",
-                "repo": "KLMS",
-                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
@@ -258,7 +258,7 @@
                 "open_issues": 179,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9207,
+                "stars": 9212,
                 "topics": [
                   "docker",
                   "free",
@@ -1044,8 +1044,8 @@
                 "id": 1043040666,
                 "language": "C#",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-03T12:25:38Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-04T12:39:09Z",
+                "open_issues": 6,
                 "owner": "regix1",
                 "repo": "lancache-manager",
                 "stars": 34,
@@ -1093,11 +1093,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T09:09:24Z",
-                "open_issues": 796,
+                "last_commit": "2026-09-04T00:10:16Z",
+                "open_issues": 798,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 90928,
+                "stars": 90964,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1174,7 +1174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T14:44:09.487Z",
+    "last_updated": "2026-09-04T14:33:52.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",

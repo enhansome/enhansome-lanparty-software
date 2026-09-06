@@ -258,7 +258,7 @@
                 "open_issues": 179,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9213,
+                "stars": 9216,
                 "topics": [
                   "docker",
                   "free",
@@ -933,7 +933,7 @@
                 "open_issues": 15,
                 "owner": "tpill90",
                 "repo": "steam-lancache-prefill",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "lancache",
                   "lancachenet",
@@ -1044,7 +1044,7 @@
                 "id": 1043040666,
                 "language": "C#",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-05T12:43:01Z",
+                "last_commit": "2026-09-06T12:39:06Z",
                 "open_issues": 5,
                 "owner": "regix1",
                 "repo": "lancache-manager",
@@ -1093,11 +1093,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T04:02:55Z",
-                "open_issues": 798,
+                "last_commit": "2026-09-06T00:07:00Z",
+                "open_issues": 799,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 91007,
+                "stars": 91037,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1174,7 +1174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:33:32.797Z",
+    "last_updated": "2026-09-06T13:48:48.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",

@@ -11,7 +11,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### LAN Party Management
 
-* [LANager](https://github.com/zeropingheroes/lanager) ⭐ 132 | 🐛 3 | 🌐 PHP | 📅 2026-09-01 – "LAN party management web application"
+* [LANager](https://github.com/zeropingheroes/lanager) ⭐ 132 | 🐛 3 | 🌐 PHP | 📅 2026-09-06 – "LAN party management web application"
 * [Lan2Play's Eventula Event Manager](https://github.com/Lan2Play/eventula-manager) ⭐ 34 | 🐛 158 | 🌐 PHP | 📅 2026-09-01 – Event Ticket & Management System with (automated) Tournament support and lots of features
 * [KRRU LAN-Party Management System](https://github.com/KRRUg/KLMS) ⭐ 15 | 🐛 5 | 🌐 PHP | 📅 2025-09-17 - CMS (Content management system) for LAN-Parties. Everything you need to present and manage your event in a modern design.
 * [Lansite](https://github.com/tannerkrewson/lansite) ⭐ 15 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-13 – "A web app for LAN parties designed to be a simple, central information hub for all attendees"
@@ -31,7 +31,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Gameserver Management
 
-* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,216 | 🐛 179 | 🌐 PHP | 📅 2026-08-14 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
+* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,217 | 🐛 179 | 🌐 PHP | 📅 2026-08-14 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
 * [get5](https://github.com/splewis/get5) ⭐ 558 | 🐛 12 | 🌐 SourcePawn | 📅 2023-11-14 – CS:GO Sourcemod plugin for competitive matches/scrims.
 * [eBot](https://github.com/deStrO/eBot-CSGO) ⭐ 383 | 🐛 10 | 🌐 PHP | 📅 2023-11-07 – CSGO Server Bot for easy match creation (might be outdated).
 * [PugSharp](https://github.com/Lan2Play/PugSharp) ⭐ 61 | 🐛 32 | 🌐 C# | 📅 2026-02-16 - CS2 CS# plugin for competitive matches/scrims, with api compatibility to get5.
@@ -87,7 +87,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Monitoring
 
-* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 91,037 | 🐛 799 | 🌐 JavaScript | 📅 2026-09-06 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
+* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 91,081 | 🐛 799 | 🌐 JavaScript | 📅 2026-09-07 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
 * [checkmk-RCONserver](https://github.com/Hornochs/checkmk-RCONserver) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-10-20 – A local check for CheckMK to monitor GoldSrc Games (CS 1.6, Ricochet etc) and Source Games (CS:GO etc.).
 * [CheckMK](https://checkmk.com) – Free Monitoring System that can monitor almost everything and if a check is missing, write you own simple check.
 
@@ -110,4 +110,4 @@ Software that is not specifically made for LAN Parties, but is helpful for LAN P
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

@@ -17,7 +17,7 @@
                 "id": 14088050,
                 "language": "PHP",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-06T19:25:17Z",
+                "last_commit": "2026-09-08T21:22:40Z",
                 "open_issues": 3,
                 "owner": "zeropingheroes",
                 "repo": "lanager",
@@ -42,7 +42,7 @@
                 "id": 295786968,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-07T23:05:14Z",
+                "last_commit": "2026-09-09T06:09:44Z",
                 "open_issues": 158,
                 "owner": "Lan2Play",
                 "repo": "eventula-manager",
@@ -258,7 +258,7 @@
                 "open_issues": 180,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9218,
+                "stars": 9219,
                 "topics": [
                   "docker",
                   "free",
@@ -1044,7 +1044,7 @@
                 "id": 1043040666,
                 "language": "C#",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-08T03:59:27Z",
+                "last_commit": "2026-09-09T07:35:45Z",
                 "open_issues": 5,
                 "owner": "regix1",
                 "repo": "lancache-manager",
@@ -1093,11 +1093,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T05:00:24Z",
+                "last_commit": "2026-09-09T10:06:37Z",
                 "open_issues": 800,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 91127,
+                "stars": 91170,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1174,7 +1174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T14:47:04.550Z",
+    "last_updated": "2026-09-09T14:48:49.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",

@@ -258,7 +258,7 @@
                 "open_issues": 180,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9223,
+                "stars": 9226,
                 "topics": [
                   "docker",
                   "free",
@@ -292,7 +292,7 @@
                 "open_issues": 12,
                 "owner": "splewis",
                 "repo": "get5",
-                "stars": 558,
+                "stars": 557,
                 "topics": [
                   "counter-strike",
                   "counter-strike-global-offensive",
@@ -1093,11 +1093,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T10:09:10Z",
-                "open_issues": 804,
+                "last_commit": "2026-09-12T05:01:49Z",
+                "open_issues": 802,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 91263,
+                "stars": 91294,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1174,7 +1174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T14:38:16.793Z",
+    "last_updated": "2026-09-12T13:45:36.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",

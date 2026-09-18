@@ -255,10 +255,10 @@
                 "language": "PHP",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-14T20:17:23Z",
-                "open_issues": 181,
+                "open_issues": 182,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9237,
+                "stars": 9241,
                 "topics": [
                   "docker",
                   "free",
@@ -933,7 +933,7 @@
                 "open_issues": 17,
                 "owner": "tpill90",
                 "repo": "steam-lancache-prefill",
-                "stars": 462,
+                "stars": 463,
                 "topics": [
                   "lancache",
                   "lancachenet",
@@ -1048,7 +1048,7 @@
                 "open_issues": 6,
                 "owner": "regix1",
                 "repo": "lancache-manager",
-                "stars": 36,
+                "stars": 37,
                 "topics": [
                   "cache-server",
                   "dashboard",
@@ -1093,11 +1093,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T08:17:03Z",
-                "open_issues": 813,
+                "last_commit": "2026-09-18T00:06:09Z",
+                "open_issues": 808,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 91466,
+                "stars": 91522,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1174,7 +1174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:19:36.273Z",
+    "last_updated": "2026-09-18T14:39:25.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",

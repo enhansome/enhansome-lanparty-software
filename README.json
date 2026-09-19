@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "zeropingheroes",
                 "repo": "lanager",
-                "stars": 132,
+                "stars": 133,
                 "topics": [
                   "gaming",
                   "lanparty",
@@ -258,7 +258,7 @@
                 "open_issues": 182,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9241,
+                "stars": 9245,
                 "topics": [
                   "docker",
                   "free",
@@ -1093,11 +1093,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T00:06:09Z",
-                "open_issues": 808,
+                "last_commit": "2026-09-19T13:32:18Z",
+                "open_issues": 810,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 91522,
+                "stars": 91559,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1174,7 +1174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T14:39:25.032Z",
+    "last_updated": "2026-09-19T13:59:30.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",
@@ -1186,7 +1186,7 @@
       "open_issues": 2,
       "owner": "LANparties",
       "repo": "awesome-lanparty-software",
-      "stars": 195,
+      "stars": 196,
       "topics": [
         "awesome",
         "awesome-list",

@@ -255,10 +255,10 @@
                 "language": "PHP",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-14T20:17:23Z",
-                "open_issues": 183,
+                "open_issues": 184,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9251,
+                "stars": 9252,
                 "topics": [
                   "docker",
                   "free",
@@ -849,6 +849,27 @@
             },
             {
               "node_type": "item",
+              "title": "FlowGauge",
+              "description": "A modular bandwidth testing tool with Multi-WAN support, DSCP flag configuration, and Grafana-compatible API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Small CLI Tool that tracks the Internetspeed with the possibility of using Multiple Source-IP Addresses",
+                "homepage": null,
+                "id": 1109891547,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-09-21T11:40:36Z",
+                "open_issues": 7,
+                "owner": "lan-dot-party",
+                "repo": "FlowGauge",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:15:11.928Z"
+            },
+            {
+              "node_type": "item",
               "title": "Gaming LAN Manager",
               "description": "A specialized WireGuard wrapper to create zero-config Virtual LANs, allowing remote friends to play LAN games over the internet.",
               "children": [],
@@ -884,27 +905,6 @@
                 "open_issues": 2,
                 "owner": "lan-dot-party",
                 "repo": "Discord-Gameserver-Notifier",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:15:11.928Z"
-            },
-            {
-              "node_type": "item",
-              "title": "FlowGauge",
-              "description": "A modular bandwidth testing tool with Multi-WAN support, DSCP flag configuration, and Grafana-compatible API.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Small CLI Tool that tracks the Internetspeed with the possibility of using Multiple Source-IP Addresses",
-                "homepage": null,
-                "id": 1109891547,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2026-09-21T11:40:36Z",
-                "open_issues": 7,
-                "owner": "lan-dot-party",
-                "repo": "FlowGauge",
                 "stars": 1,
                 "topics": []
               },
@@ -1048,7 +1048,7 @@
                 "open_issues": 6,
                 "owner": "regix1",
                 "repo": "lancache-manager",
-                "stars": 37,
+                "stars": 38,
                 "topics": [
                   "cache-server",
                   "dashboard",
@@ -1093,11 +1093,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T00:06:13Z",
-                "open_issues": 817,
+                "last_commit": "2026-09-23T14:57:57Z",
+                "open_issues": 818,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 91675,
+                "stars": 91731,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1174,7 +1174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T15:11:22.980Z",
+    "last_updated": "2026-09-23T15:11:50.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",

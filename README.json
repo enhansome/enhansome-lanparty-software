@@ -42,7 +42,7 @@
                 "id": 295786968,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T00:05:51Z",
+                "last_commit": "2026-10-02T06:08:02Z",
                 "open_issues": 158,
                 "owner": "Lan2Play",
                 "repo": "eventula-manager",
@@ -258,7 +258,7 @@
                 "open_issues": 187,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9279,
+                "stars": 9283,
                 "topics": [
                   "docker",
                   "free",
@@ -1048,7 +1048,7 @@
                 "open_issues": 4,
                 "owner": "regix1",
                 "repo": "lancache-manager",
-                "stars": 39,
+                "stars": 38,
                 "topics": [
                   "cache-server",
                   "dashboard",
@@ -1093,11 +1093,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T00:07:25Z",
-                "open_issues": 827,
+                "last_commit": "2026-10-02T00:07:14Z",
+                "open_issues": 828,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 92018,
+                "stars": 92057,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1174,7 +1174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T17:09:16.878Z",
+    "last_updated": "2026-10-02T16:22:24.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",

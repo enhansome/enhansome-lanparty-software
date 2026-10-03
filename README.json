@@ -138,7 +138,7 @@
             {
               "node_type": "item",
               "title": "LANshock",
-              "description": null,
+              "description": "bkonetzny/LANshock",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -292,7 +292,7 @@
                 "open_issues": 12,
                 "owner": "splewis",
                 "repo": "get5",
-                "stars": 556,
+                "stars": 555,
                 "topics": [
                   "counter-strike",
                   "counter-strike-global-offensive",
@@ -529,7 +529,7 @@
             {
               "node_type": "item",
               "title": "LAN game scanner",
-              "description": null,
+              "description": "991jo/lan-game-scanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -667,7 +667,7 @@
             {
               "node_type": "item",
               "title": "Generic Docker game servers",
-              "description": null,
+              "description": "OpenSourceLAN/gameservers-docker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -700,7 +700,7 @@
             {
               "node_type": "item",
               "title": "Archived ESL Configs",
-              "description": null,
+              "description": "lan-dot-party/ESL-Configs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -933,7 +933,7 @@
                 "open_issues": 17,
                 "owner": "tpill90",
                 "repo": "steam-lancache-prefill",
-                "stars": 465,
+                "stars": 466,
                 "topics": [
                   "lancache",
                   "lancachenet",
@@ -947,7 +947,7 @@
             {
               "node_type": "item",
               "title": "lancache",
-              "description": null,
+              "description": "bntjah/lancache",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1093,11 +1093,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T00:07:14Z",
-                "open_issues": 828,
+                "last_commit": "2026-10-03T00:06:48Z",
+                "open_issues": 830,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 92057,
+                "stars": 92077,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1174,7 +1174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:22:24.216Z",
+    "last_updated": "2026-10-03T04:52:10.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",

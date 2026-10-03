@@ -258,7 +258,7 @@
                 "open_issues": 187,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9283,
+                "stars": 9286,
                 "topics": [
                   "docker",
                   "free",
@@ -1097,7 +1097,7 @@
                 "open_issues": 830,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 92077,
+                "stars": 92082,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1174,7 +1174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:52:10.992Z",
+    "last_updated": "2026-10-03T14:56:14.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",

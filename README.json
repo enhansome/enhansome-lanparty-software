@@ -254,11 +254,11 @@
                 "id": 47508644,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T16:48:06Z",
-                "open_issues": 186,
+                "last_commit": "2026-10-08T08:54:22Z",
+                "open_issues": 187,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9288,
+                "stars": 9291,
                 "topics": [
                   "docker",
                   "free",
@@ -415,8 +415,8 @@
                 "id": 89149872,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T22:48:40Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-08T13:43:17Z",
+                "open_issues": 4,
                 "owner": "galexrt",
                 "repo": "srcds_exporter",
                 "stars": 32,
@@ -870,6 +870,27 @@
             },
             {
               "node_type": "item",
+              "title": "Discord Gameserver Notifier",
+              "description": "Software so search local network of Gameserver and send Webhook into Discord Channel on new findings",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This PYthon Project aims to push Webhook Notifications after finding a new Gameserver in the Network",
+                "homepage": null,
+                "id": 993153454,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-08T09:00:23Z",
+                "open_issues": 2,
+                "owner": "lan-dot-party",
+                "repo": "Discord-Gameserver-Notifier",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:15:11.928Z"
+            },
+            {
+              "node_type": "item",
               "title": "Gaming LAN Manager",
               "description": "A specialized WireGuard wrapper to create zero-config Virtual LANs, allowing remote friends to play LAN games over the internet.",
               "children": [],
@@ -884,27 +905,6 @@
                 "open_issues": 0,
                 "owner": "SovereignBit",
                 "repo": "GamingLAN",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:15:11.928Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Discord Gameserver Notifier",
-              "description": "Software so search local network of Gameserver and send Webhook into Discord Channel on new findings",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This PYthon Project aims to push Webhook Notifications after finding a new Gameserver in the Network",
-                "homepage": null,
-                "id": 993153454,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2025-12-18T13:32:34Z",
-                "open_issues": 2,
-                "owner": "lan-dot-party",
-                "repo": "Discord-Gameserver-Notifier",
                 "stars": 1,
                 "topics": []
               },
@@ -933,7 +933,7 @@
                 "open_issues": 17,
                 "owner": "tpill90",
                 "repo": "steam-lancache-prefill",
-                "stars": 467,
+                "stars": 468,
                 "topics": [
                   "lancache",
                   "lancachenet",
@@ -1093,11 +1093,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T07:55:16Z",
-                "open_issues": 834,
+                "last_commit": "2026-10-08T05:01:04Z",
+                "open_issues": 832,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 92186,
+                "stars": 92222,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1145,6 +1145,34 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Mutual Games Finder For LAN parties",
+              "description": "A tool which connect \"all\" game libaries in order to find mutual games within your LANparty participants. Designed for private LAN partys (low number of participants, full trust among the group)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1379586934,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-01T07:58:45Z",
+                "open_issues": 2,
+                "owner": "Ascendor",
+                "repo": "mutual-games-finder-for-lanparties",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-08T17:36:29.553Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Matchmaking / Lobby / Gamefinder"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "reboot-lan",
               "description": "\"lanning + Infra for reBOOT LAN Party\"",
               "children": [],
@@ -1174,7 +1202,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:33:09.612Z",
+    "last_updated": "2026-10-08T17:36:29.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",
@@ -1182,8 +1210,8 @@
       "id": 217301670,
       "language": null,
       "license": null,
-      "last_commit": "2026-06-11T20:30:51Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-08T01:01:06Z",
+      "open_issues": 1,
       "owner": "LANparties",
       "repo": "awesome-lanparty-software",
       "stars": 196,
@@ -1196,7 +1224,7 @@
         "lanparty"
       ]
     },
-    "original_repository_sha": "b48450e0ba570f020ffabc4d8d4e218b49b705a6",
+    "original_repository_sha": "b4c45ae1096fbb59d6b825d00866c69a82bd4d0b",
     "enhanced_repository": "enhansome/enhansome-lanparty-software",
     "enhanced_repository_description": null,
     "title": "Awesome LAN Party Software with stars"

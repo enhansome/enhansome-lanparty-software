@@ -23,6 +23,9 @@ If you are not sure where to put something, open an issue instead ;)
 * [BYCEPS](https://byceps.nwsnet.de/) – "A tool to prepare and operate LAN parties (even under different brands), big (1,000+ attendees) and small, both online on the Internet and locally as an intranet system, for both organizers and attendees"
 * [LanHUB](https://LanHUB.net) – LAN Event management system focused on player engagement and easy registration
 * [WuTalLAN CMS](https://gitlab.kb-dev.net/lanweb/wutallan/-/tree/) - The custom website/CMS used for WuTalLAN/WupperLAN, built with PHP4 in 2001. [A partial modernization](https://gitlab.kb-dev.net/lanweb/wutallan/-/tree/modernisierung) is available.
+* [ploynt LAN Planner](https://ploynt.com/en/lan-planen) – "An interactive Lanparty venue planner: place tables and zones, escape routes,
+  power circuits, network cables, switch ports and an extensive budget to calculate your aparty. All from the same plan. Includes
+  a 3D view of the hall and a 22-point safety check. Free. No Login needed."
 
 ### Server Management
 
@@ -31,13 +34,13 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Gameserver Management
 
-* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,288 | 🐛 186 | 🌐 PHP | 📅 2026-10-07 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
+* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,291 | 🐛 187 | 🌐 PHP | 📅 2026-10-08 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
 * [get5](https://github.com/splewis/get5) ⭐ 555 | 🐛 12 | 🌐 SourcePawn | 📅 2023-11-14 – CS:GO Sourcemod plugin for competitive matches/scrims.
 * [eBot](https://github.com/deStrO/eBot-CSGO) ⭐ 383 | 🐛 10 | 🌐 PHP | 📅 2023-11-07 – CSGO Server Bot for easy match creation (might be outdated).
 * [PugSharp](https://github.com/Lan2Play/PugSharp) ⭐ 61 | 🐛 32 | 🌐 C# | 📅 2026-02-16 - CS2 CS# plugin for competitive matches/scrims, with api compatibility to get5.
 * [Wilfred](https://github.com/wilfred-dev/wilfred) ⭐ 37 | 🐛 14 | 🌐 Python | 📅 2024-01-06 – "Wilfred is a command-line interface for running and managing game servers locally. It uses Docker to run game servers in containers, which means they are completely separated. Wilfred can run any game that can run in Docker."
 * [TMT](https://github.com/JensForstmann/tmt2) ⭐ 36 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-26 – A tool to supervise/manage Counter-Strike 2 matches.
-* [srcds\_exporter (golang)](https://github.com/galexrt/srcds_exporter) ⭐ 32 | 🐛 3 | 🌐 Go | 📅 2026-09-28 – A stats exporter for prometheus written in Go and tested with Garry's Mod.
+* [srcds\_exporter (golang)](https://github.com/galexrt/srcds_exporter) ⭐ 32 | 🐛 4 | 🌐 Go | 📅 2026-10-08 – A stats exporter for prometheus written in Go and tested with Garry's Mod.
 * [kubernetes-lanparty](https://github.com/OpenSourceLAN/kubernetes-lanparty/) ⭐ 26 | 🐛 0 | 🌐 Smarty | 📅 2022-10-03  How to put all of your game servers into Kubernetes.
 * [srcds\_exporter (python)](https://github.com/991jo/srcds_exporter) ⭐ 20 | 🐛 4 | 🌐 Python | 📅 2021-03-20 – A stats exporter for prometheus that supports most of the SRCDS based gameservers.
 * [srcds-perfmon](https://github.com/OpenSourceLAN/srcds-perfmon) ⭐ 8 | 🐛 1 | 🌐 HTML | 📅 2016-05-22 – A little utility to track the performance of a SRCDS server.
@@ -63,6 +66,7 @@ If you are not sure where to put something, open an issue instead ;)
 ### File Sharing
 
 * [D-LAN](https://www.d-lan.net/) – A free LAN distributed file sharing software.
+* [LANBucket](https://www.lanbucket.com) - Fast, no-config, file sharing with a modern UI.
 
 ### Network-related software
 
@@ -71,13 +75,13 @@ If you are not sure where to put something, open an issue instead ;)
 * [GrokStat](https://github.com/vorot93/grokstat) ⭐ 29 | 🐛 1 | 🌐 Go | 📅 2017-02-10 – "Fast game server query tool. Retrieves information about game servers. Inspired by QStat."
 * [gamebridge](https://github.com/netwarlan/gamebridge) ⭐ 8 | 🐛 1 | 📅 2025-03-12 - Gamebridge allows you to carve up your LAN party network into many VLANs. Usually, this is a no-no for LAN parties due to the broadcasts needed to find local LAN game servers. Gamebridge rebroadcasts those game server finding beacons across many VLANs without passing anything else (ARP, BPDU, other non-game server broadcasts, etc.) using Linux ebtables. Very simple to set up and deploy. Created by [NETWAR](https://www.netwar.org)
 * [FlowGauge](https://github.com/lan-dot-party/FlowGauge) ⭐ 3 | 🐛 7 | 🌐 Go | 📅 2026-09-21 - A modular bandwidth testing tool with Multi-WAN support, DSCP flag configuration, and Grafana-compatible API.
+* [Discord Gameserver Notifier](https://github.com/lan-dot-party/Discord-Gameserver-Notifier) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-10-08 - Software so search local network of Gameserver and send Webhook into Discord Channel on new findings
 * [Gaming LAN Manager](https://github.com/SovereignBit/GamingLAN) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-03-09 - A specialized WireGuard wrapper to create zero-config Virtual LANs, allowing remote friends to play LAN games over the internet.
-* [Discord Gameserver Notifier](https://github.com/lan-dot-party/Discord-Gameserver-Notifier) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2025-12-18 - Software so search local network of Gameserver and send Webhook into Discord Channel on new findings
 * [bcast-bridge](https://git.kopf-tisch.de/razzor/bcast-bridge) – A PHP script that generates iptables rules that forward broadcast traffic to other networks. Used at NorthCon and LANresort.
 
 ### Caching
 
-* [steam-lancache-prefill](https://github.com/tpill90/steam-lancache-prefill) ⭐ 467 | 🐛 17 | 🌐 C# | 📅 2026-08-25 – A self-contained, portable alternative to lancache-autofill with more features for steam games
+* [steam-lancache-prefill](https://github.com/tpill90/steam-lancache-prefill) ⭐ 468 | 🐛 17 | 🌐 C# | 📅 2026-08-25 – A self-contained, portable alternative to lancache-autofill with more features for steam games
 * [lancache](https://github.com/bntjah/lancache) ⭐ 182 | 🐛 45 | 🌐 Shell | 📅 2021-03-09
 * [lancache-autofill](https://github.com/zeropingheroes/lancache-autofill) ⭐ 132 | 🐛 21 | 🌐 PHP | 📅 2022-06-21 – A script to fill a lan caching server
 * [battlenet-lancache-prefill](https://github.com/tpill90/battlenet-lancache-prefill) ⭐ 119 | 🐛 12 | 🌐 C# | 📅 2026-07-26 – A self-contained, portable alternative to lancache-autofill with more features for battlenet games
@@ -87,9 +91,13 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Monitoring
 
-* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 92,186 | 🐛 834 | 🌐 JavaScript | 📅 2026-10-07 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
+* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 92,222 | 🐛 832 | 🌐 JavaScript | 📅 2026-10-08 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
 * [checkmk-RCONserver](https://github.com/Hornochs/checkmk-RCONserver) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-10-20 – A local check for CheckMK to monitor GoldSrc Games (CS 1.6, Ricochet etc) and Source Games (CS:GO etc.).
 * [CheckMK](https://checkmk.com) – Free Monitoring System that can monitor almost everything and if a check is missing, write you own simple check.
+
+### Matchmaking / Lobby / Gamefinder
+
+* [Mutual Games Finder For LAN parties](https://github.com/Ascendor/mutual-games-finder-for-lanparties) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2026-10-01 - A tool which connect "all" game libaries in order to find mutual games within your LANparty participants. Designed for private LAN partys (low number of participants, full trust among the group)
 
 ### Uncategorized
 
@@ -110,4 +118,4 @@ Software that is not specifically made for LAN Parties, but is helpful for LAN P
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

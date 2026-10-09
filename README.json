@@ -254,11 +254,11 @@
                 "id": 47508644,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T08:54:22Z",
-                "open_issues": 187,
+                "last_commit": "2026-10-09T13:47:53Z",
+                "open_issues": 189,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9291,
+                "stars": 9298,
                 "topics": [
                   "docker",
                   "free",
@@ -880,7 +880,7 @@
                 "id": 993153454,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T09:00:23Z",
+                "last_commit": "2026-10-08T19:06:19Z",
                 "open_issues": 2,
                 "owner": "lan-dot-party",
                 "repo": "Discord-Gameserver-Notifier",
@@ -1093,11 +1093,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T05:01:04Z",
-                "open_issues": 832,
+                "last_commit": "2026-10-09T16:05:41Z",
+                "open_issues": 830,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 92222,
+                "stars": 92268,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1202,7 +1202,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T17:36:29.553Z",
+    "last_updated": "2026-10-09T17:12:11.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",

@@ -34,13 +34,13 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Gameserver Management
 
-* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,302 | 🐛 196 | 🌐 PHP | 📅 2026-10-09 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
+* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,310 | 🐛 198 | 🌐 PHP | 📅 2026-10-11 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
 * [get5](https://github.com/splewis/get5) ⭐ 555 | 🐛 12 | 🌐 SourcePawn | 📅 2023-11-14 – CS:GO Sourcemod plugin for competitive matches/scrims.
 * [eBot](https://github.com/deStrO/eBot-CSGO) ⭐ 383 | 🐛 10 | 🌐 PHP | 📅 2023-11-07 – CSGO Server Bot for easy match creation (might be outdated).
 * [PugSharp](https://github.com/Lan2Play/PugSharp) ⭐ 61 | 🐛 32 | 🌐 C# | 📅 2026-02-16 - CS2 CS# plugin for competitive matches/scrims, with api compatibility to get5.
 * [Wilfred](https://github.com/wilfred-dev/wilfred) ⭐ 37 | 🐛 14 | 🌐 Python | 📅 2024-01-06 – "Wilfred is a command-line interface for running and managing game servers locally. It uses Docker to run game servers in containers, which means they are completely separated. Wilfred can run any game that can run in Docker."
 * [TMT](https://github.com/JensForstmann/tmt2) ⭐ 36 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-26 – A tool to supervise/manage Counter-Strike 2 matches.
-* [srcds\_exporter (golang)](https://github.com/galexrt/srcds_exporter) ⭐ 32 | 🐛 4 | 🌐 Go | 📅 2026-10-08 – A stats exporter for prometheus written in Go and tested with Garry's Mod.
+* [srcds\_exporter (golang)](https://github.com/galexrt/srcds_exporter) ⭐ 32 | 🐛 4 | 🌐 Go | 📅 2026-10-11 – A stats exporter for prometheus written in Go and tested with Garry's Mod.
 * [kubernetes-lanparty](https://github.com/OpenSourceLAN/kubernetes-lanparty/) ⭐ 26 | 🐛 0 | 🌐 Smarty | 📅 2022-10-03  How to put all of your game servers into Kubernetes.
 * [srcds\_exporter (python)](https://github.com/991jo/srcds_exporter) ⭐ 20 | 🐛 4 | 🌐 Python | 📅 2021-03-20 – A stats exporter for prometheus that supports most of the SRCDS based gameservers.
 * [srcds-perfmon](https://github.com/OpenSourceLAN/srcds-perfmon) ⭐ 8 | 🐛 1 | 🌐 HTML | 📅 2016-05-22 – A little utility to track the performance of a SRCDS server.
@@ -75,7 +75,7 @@ If you are not sure where to put something, open an issue instead ;)
 * [GrokStat](https://github.com/vorot93/grokstat) ⭐ 29 | 🐛 1 | 🌐 Go | 📅 2017-02-10 – "Fast game server query tool. Retrieves information about game servers. Inspired by QStat."
 * [gamebridge](https://github.com/netwarlan/gamebridge) ⭐ 8 | 🐛 1 | 📅 2025-03-12 - Gamebridge allows you to carve up your LAN party network into many VLANs. Usually, this is a no-no for LAN parties due to the broadcasts needed to find local LAN game servers. Gamebridge rebroadcasts those game server finding beacons across many VLANs without passing anything else (ARP, BPDU, other non-game server broadcasts, etc.) using Linux ebtables. Very simple to set up and deploy. Created by [NETWAR](https://www.netwar.org)
 * [FlowGauge](https://github.com/lan-dot-party/FlowGauge) ⭐ 3 | 🐛 7 | 🌐 Go | 📅 2026-09-21 - A modular bandwidth testing tool with Multi-WAN support, DSCP flag configuration, and Grafana-compatible API.
-* [Discord Gameserver Notifier](https://github.com/lan-dot-party/Discord-Gameserver-Notifier) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-10-08 - Software so search local network of Gameserver and send Webhook into Discord Channel on new findings
+* [Discord Gameserver Notifier](https://github.com/lan-dot-party/Discord-Gameserver-Notifier) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-10-11 - Software so search local network of Gameserver and send Webhook into Discord Channel on new findings
 * [Gaming LAN Manager](https://github.com/SovereignBit/GamingLAN) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-03-09 - A specialized WireGuard wrapper to create zero-config Virtual LANs, allowing remote friends to play LAN games over the internet.
 * [bcast-bridge](https://git.kopf-tisch.de/razzor/bcast-bridge) – A PHP script that generates iptables rules that forward broadcast traffic to other networks. Used at NorthCon and LANresort.
 
@@ -91,7 +91,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Monitoring
 
-* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 92,296 | 🐛 829 | 🌐 JavaScript | 📅 2026-10-10 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
+* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 92,318 | 🐛 829 | 🌐 JavaScript | 📅 2026-10-11 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
 * [checkmk-RCONserver](https://github.com/Hornochs/checkmk-RCONserver) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-10-20 – A local check for CheckMK to monitor GoldSrc Games (CS 1.6, Ricochet etc) and Source Games (CS:GO etc.).
 * [CheckMK](https://checkmk.com) – Free Monitoring System that can monitor almost everything and if a check is missing, write you own simple check.
 
@@ -118,4 +118,4 @@ Software that is not specifically made for LAN Parties, but is helpful for LAN P
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

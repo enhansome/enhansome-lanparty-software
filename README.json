@@ -254,11 +254,11 @@
                 "id": 47508644,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-11T05:11:38Z",
-                "open_issues": 198,
+                "last_commit": "2026-10-12T09:42:36Z",
+                "open_issues": 194,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9310,
+                "stars": 9318,
                 "topics": [
                   "docker",
                   "free",
@@ -347,6 +347,34 @@
             },
             {
               "node_type": "item",
+              "title": "TMT",
+              "description": "A tool to supervise/manage Counter-Strike 2 matches.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "TMT2 - Tournament Match Tracker 2: Supervise/Manage Counter-Strike 2 matches with ease!",
+                "homepage": null,
+                "id": 295566655,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-26T23:09:37Z",
+                "open_issues": 5,
+                "owner": "JensForstmann",
+                "repo": "tmt2",
+                "stars": 37,
+                "topics": [
+                  "counter-strike",
+                  "counter-strike-2",
+                  "cs2",
+                  "cs2-bot",
+                  "cs2-server-administration",
+                  "cs2-tournament"
+                ]
+              },
+              "first_seen": "2026-08-28T21:15:11.928Z"
+            },
+            {
+              "node_type": "item",
               "title": "Wilfred",
               "description": "\"Wilfred is a command-line interface for running and managing game servers locally. It uses Docker to run game servers in containers, which means they are completely separated. Wilfred can run any game that can run in Docker.\"",
               "children": [],
@@ -371,34 +399,6 @@
                   "minecraft",
                   "python",
                   "wilfred"
-                ]
-              },
-              "first_seen": "2026-08-28T21:15:11.928Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TMT",
-              "description": "A tool to supervise/manage Counter-Strike 2 matches.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "TMT2 - Tournament Match Tracker 2: Supervise/Manage Counter-Strike 2 matches with ease!",
-                "homepage": null,
-                "id": 295566655,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-09-26T23:09:37Z",
-                "open_issues": 5,
-                "owner": "JensForstmann",
-                "repo": "tmt2",
-                "stars": 36,
-                "topics": [
-                  "counter-strike",
-                  "counter-strike-2",
-                  "cs2",
-                  "cs2-bot",
-                  "cs2-server-administration",
-                  "cs2-tournament"
                 ]
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
@@ -680,7 +680,7 @@
                 "open_issues": 8,
                 "owner": "OpenSourceLAN",
                 "repo": "gameservers-docker",
-                "stars": 546,
+                "stars": 547,
                 "topics": [
                   "csgo",
                   "docker",
@@ -1093,11 +1093,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-11T07:03:48Z",
-                "open_issues": 829,
+                "last_commit": "2026-10-12T00:07:39Z",
+                "open_issues": 833,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 92318,
+                "stars": 92368,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1202,7 +1202,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T16:25:45.617Z",
+    "last_updated": "2026-10-12T20:00:16.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",
@@ -1211,7 +1211,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-08T01:01:06Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "LANparties",
       "repo": "awesome-lanparty-software",
       "stars": 196,

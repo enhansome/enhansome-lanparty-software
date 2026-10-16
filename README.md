@@ -34,7 +34,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Gameserver Management
 
-* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,337 | 🐛 196 | 🌐 PHP | 📅 2026-10-14 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
+* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,340 | 🐛 200 | 🌐 PHP | 📅 2026-10-16 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
 * [get5](https://github.com/splewis/get5) ⭐ 554 | 🐛 12 | 🌐 SourcePawn | 📅 2023-11-14 – CS:GO Sourcemod plugin for competitive matches/scrims.
 * [eBot](https://github.com/deStrO/eBot-CSGO) ⭐ 382 | 🐛 10 | 🌐 PHP | 📅 2023-11-07 – CSGO Server Bot for easy match creation (might be outdated).
 * [PugSharp](https://github.com/Lan2Play/PugSharp) ⭐ 61 | 🐛 32 | 🌐 C# | 📅 2026-02-16 - CS2 CS# plugin for competitive matches/scrims, with api compatibility to get5.
@@ -82,7 +82,7 @@ If you are not sure where to put something, open an issue instead ;)
 ### Caching
 
 * [steam-lancache-prefill](https://github.com/tpill90/steam-lancache-prefill) ⭐ 468 | 🐛 17 | 🌐 C# | 📅 2026-08-25 – A self-contained, portable alternative to lancache-autofill with more features for steam games
-* [lancache](https://github.com/bntjah/lancache) ⭐ 181 | 🐛 45 | 🌐 Shell | 📅 2021-03-09
+* [lancache](https://github.com/bntjah/lancache) ⭐ 180 | 🐛 45 | 🌐 Shell | 📅 2021-03-09
 * [lancache-autofill](https://github.com/zeropingheroes/lancache-autofill) ⭐ 132 | 🐛 21 | 🌐 PHP | 📅 2022-06-21 – A script to fill a lan caching server
 * [battlenet-lancache-prefill](https://github.com/tpill90/battlenet-lancache-prefill) ⭐ 119 | 🐛 12 | 🌐 C# | 📅 2026-07-26 – A self-contained, portable alternative to lancache-autofill with more features for battlenet games
 * [origin-docker](https://github.com/OpenSourceLAN/origin-docker) ⭐ 78 | 🐛 5 | 🌐 Shell | 📅 2021-11-12 – Single docker image that will serves most major CDNs
@@ -91,8 +91,8 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Monitoring
 
-* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 92,494 | 🐛 840 | 🌐 JavaScript | 📅 2026-10-15 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
-* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 19 | 🐛 5 | 🌐 Go | 📅 2026-10-15 - Self-hosted uptime monitor with game server checks (Source/A2S and Minecraft, with player counts) next to ping, TCP, UDP, DNS and HTTP checks. Single binary or Docker container, SQLite by default.
+* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 92,554 | 🐛 845 | 🌐 JavaScript | 📅 2026-10-16 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
+* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 20 | 🐛 5 | 🌐 Go | 📅 2026-10-16 - Self-hosted uptime monitor with game server checks (Source/A2S and Minecraft, with player counts) next to ping, TCP, UDP, DNS and HTTP checks. Single binary or Docker container, SQLite by default.
 * [checkmk-RCONserver](https://github.com/Hornochs/checkmk-RCONserver) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-10-20 – A local check for CheckMK to monitor GoldSrc Games (CS 1.6, Ricochet etc) and Source Games (CS:GO etc.).
 * [CheckMK](https://checkmk.com) – Free Monitoring System that can monitor almost everything and if a check is missing, write you own simple check.
 
@@ -111,7 +111,7 @@ Software that is not specifically made for LAN Parties, but is helpful for LAN P
 ### Digital signage
 
 * [Anthias](https://anthias.screenly.io/) - Lightweight digital signage. Upload images and videos via a webinterface that will be displayed on a HDMI Display. Primarily for Raspberry Pi
-* [Infoscreen4](https://github.com/reaby/infoscreen4) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-14 - Create and publish content to multiple screens from one place
+* [Infoscreen4](https://github.com/reaby/infoscreen4) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-15 - Create and publish content to multiple screens from one place
 
 ### Shops
 
@@ -119,4 +119,4 @@ Software that is not specifically made for LAN Parties, but is helpful for LAN P
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._

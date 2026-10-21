@@ -34,7 +34,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Gameserver Management
 
-* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,358 | 🐛 199 | 🌐 PHP | 📅 2026-10-19 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
+* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,364 | 🐛 196 | 🌐 PHP | 📅 2026-10-21 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
 * [get5](https://github.com/splewis/get5) ⭐ 554 | 🐛 12 | 🌐 SourcePawn | 📅 2023-11-14 – CS:GO Sourcemod plugin for competitive matches/scrims.
 * [eBot](https://github.com/deStrO/eBot-CSGO) ⭐ 382 | 🐛 10 | 🌐 PHP | 📅 2023-11-07 – CSGO Server Bot for easy match creation (might be outdated).
 * [PugSharp](https://github.com/Lan2Play/PugSharp) ⭐ 61 | 🐛 32 | 🌐 C# | 📅 2026-02-16 - CS2 CS# plugin for competitive matches/scrims, with api compatibility to get5.
@@ -91,8 +91,8 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Monitoring
 
-* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 92,671 | 🐛 846 | 🌐 JavaScript | 📅 2026-10-20 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
-* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 22 | 🐛 5 | 🌐 Go | 📅 2026-10-20 - Self-hosted uptime monitor with game server checks (Source/A2S and Minecraft, with player counts) next to ping, TCP, UDP, DNS and HTTP checks. Single binary or Docker container, SQLite by default.
+* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 92,717 | 🐛 849 | 🌐 JavaScript | 📅 2026-10-21 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
+* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 23 | 🐛 6 | 🌐 Go | 📅 2026-10-21 - Self-hosted uptime monitor with game server checks (Source/A2S and Minecraft, with player counts) next to ping, TCP, UDP, DNS and HTTP checks. Single binary or Docker container, SQLite by default.
 * [checkmk-RCONserver](https://github.com/Hornochs/checkmk-RCONserver) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-10-20 – A local check for CheckMK to monitor GoldSrc Games (CS 1.6, Ricochet etc) and Source Games (CS:GO etc.).
 * [CheckMK](https://checkmk.com) – Free Monitoring System that can monitor almost everything and if a check is missing, write you own simple check.
 
@@ -119,4 +119,4 @@ Software that is not specifically made for LAN Parties, but is helpful for LAN P
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._

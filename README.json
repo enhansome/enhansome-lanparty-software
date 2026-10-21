@@ -254,11 +254,11 @@
                 "id": 47508644,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T19:06:19Z",
-                "open_issues": 199,
+                "last_commit": "2026-10-21T15:38:10Z",
+                "open_issues": 196,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9358,
+                "stars": 9364,
                 "topics": [
                   "docker",
                   "free",
@@ -1093,11 +1093,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T12:15:53Z",
-                "open_issues": 846,
+                "last_commit": "2026-10-21T00:06:24Z",
+                "open_issues": 849,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 92671,
+                "stars": 92717,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1127,11 +1127,11 @@
                 "id": 1189028253,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-20T08:50:37Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-21T15:23:22Z",
+                "open_issues": 6,
                 "owner": "fclairamb",
                 "repo": "solidping",
-                "stars": 22,
+                "stars": 23,
                 "topics": [
                   "alerting",
                   "devops",
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T15:23:25.445Z",
+    "last_updated": "2026-10-21T15:38:59.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",

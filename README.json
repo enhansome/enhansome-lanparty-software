@@ -258,7 +258,7 @@
                 "open_issues": 199,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9451,
+                "stars": 9454,
                 "topics": [
                   "docker",
                   "free",
@@ -933,7 +933,7 @@
                 "open_issues": 18,
                 "owner": "tpill90",
                 "repo": "steam-lancache-prefill",
-                "stars": 471,
+                "stars": 472,
                 "topics": [
                   "lancache",
                   "lancachenet",
@@ -1093,11 +1093,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T15:52:52Z",
-                "open_issues": 849,
+                "last_commit": "2026-11-01T05:30:18Z",
+                "open_issues": 852,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 93123,
+                "stars": 93143,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1127,7 +1127,7 @@
                 "id": 1189028253,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-31T12:57:28Z",
+                "last_commit": "2026-11-01T15:29:00Z",
                 "open_issues": 3,
                 "owner": "fclairamb",
                 "repo": "solidping",
@@ -1197,7 +1197,7 @@
                 "id": 1379586934,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T07:58:45Z",
+                "last_commit": "2026-11-01T07:57:21Z",
                 "open_issues": 2,
                 "owner": "Ascendor",
                 "repo": "mutual-games-finder-for-lanparties",
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:53:24.302Z",
+    "last_updated": "2026-11-01T16:55:10.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",
@@ -1256,7 +1256,7 @@
       "open_issues": 6,
       "owner": "LANparties",
       "repo": "awesome-lanparty-software",
-      "stars": 196,
+      "stars": 195,
       "topics": [
         "awesome",
         "awesome-list",

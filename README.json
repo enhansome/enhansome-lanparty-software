@@ -258,7 +258,7 @@
                 "open_issues": 197,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9465,
+                "stars": 9470,
                 "topics": [
                   "docker",
                   "free",
@@ -775,7 +775,7 @@
                 "open_issues": 16,
                 "owner": "rocketsciencegg",
                 "repo": "qstat",
-                "stars": 134,
+                "stars": 135,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
@@ -1093,11 +1093,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T00:05:04Z",
-                "open_issues": 857,
+                "last_commit": "2026-11-05T13:47:31Z",
+                "open_issues": 860,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 93261,
+                "stars": 93285,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1127,8 +1127,8 @@
                 "id": 1189028253,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-04T17:04:42Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-05T15:51:02Z",
+                "open_issues": 5,
                 "owner": "fclairamb",
                 "repo": "solidping",
                 "stars": 29,
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:14:48.744Z",
+    "last_updated": "2026-11-05T18:18:05.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",

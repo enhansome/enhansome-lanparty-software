@@ -17,7 +17,7 @@
                 "id": 14088050,
                 "language": "PHP",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-20T00:35:36Z",
+                "last_commit": "2026-11-07T04:10:22Z",
                 "open_issues": 3,
                 "owner": "zeropingheroes",
                 "repo": "lanager",
@@ -258,7 +258,7 @@
                 "open_issues": 197,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9471,
+                "stars": 9475,
                 "topics": [
                   "docker",
                   "free",
@@ -323,6 +323,48 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FeatherPanel",
+              "description": "Open-source (AGPL-3.0) game server management panel; its FeatherWings daemon runs each game server in a Docker container.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Reimagining the Hosting Industry",
+                "homepage": "https://get.featherpanel.com",
+                "id": 1023115587,
+                "language": "TypeScript",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-11-06T02:40:23Z",
+                "open_issues": 0,
+                "owner": "MythicalLTD",
+                "repo": "FeatherPanel",
+                "stars": 238,
+                "topics": [
+                  "docker",
+                  "dockerpanel",
+                  "featherpanel",
+                  "game-panel",
+                  "game-server",
+                  "game-server-panel",
+                  "gamepanel",
+                  "hacktoberfest",
+                  "hosting",
+                  "minecraft",
+                  "minecraft-panel",
+                  "panel",
+                  "pelican",
+                  "php",
+                  "pterodactyl",
+                  "pterodactyl-alternative",
+                  "react",
+                  "self-hosted",
+                  "self-hosting",
+                  "server-management"
+                ]
+              },
+              "first_seen": "2026-11-07T16:38:29.566Z"
             },
             {
               "node_type": "item",
@@ -656,6 +698,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LANPilot",
+              "description": "\"LANPilot: A web interface for monitoring and remote-controlling game servers at LAN parties without loggin into the machine\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A web interface for monitoring and remote-controlling game servers at LAN parties: see every server on one dashboard, change the map, restart a match and manage players without logging into each machine.",
+                "homepage": null,
+                "id": 1417694952,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-03T18:57:36Z",
+                "open_issues": 9,
+                "owner": "lan-dot-party",
+                "repo": "LANPilot",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-07T16:38:29.566Z"
             }
           ],
           "description": null,
@@ -909,6 +972,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:11.928Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LANLeecher",
+              "description": "At LAN parties, LANLeecher counts how much every guest downloads and uploads and turns it into rankings – in the browser, on the beamer and via API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Who's pulling the most? At LAN parties, LANLeecher counts how much every guest downloads and uploads and turns it into rankings – in the browser, on the beamer and via API. The data comes straight from the switches via SNMP; nothing has to be installed on the guests' computers.",
+                "homepage": null,
+                "id": 1429563414,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-11-05T11:08:28Z",
+                "open_issues": 3,
+                "owner": "lan-dot-party",
+                "repo": "LANLeecher",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-07T16:38:29.566Z"
             }
           ],
           "description": null,
@@ -1093,11 +1177,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T02:32:06Z",
+                "last_commit": "2026-11-07T16:31:18Z",
                 "open_issues": 863,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 93317,
+                "stars": 93345,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1127,8 +1211,8 @@
                 "id": 1189028253,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-06T14:41:31Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-07T16:37:04Z",
+                "open_issues": 3,
                 "owner": "fclairamb",
                 "repo": "solidping",
                 "stars": 29,
@@ -1244,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T17:41:24.089Z",
+    "last_updated": "2026-11-07T16:38:29.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",
@@ -1252,8 +1336,8 @@
       "id": 217301670,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-15T07:47:18Z",
-      "open_issues": 6,
+      "last_commit": "2026-11-07T14:54:09Z",
+      "open_issues": 3,
       "owner": "LANparties",
       "repo": "awesome-lanparty-software",
       "stars": 195,
@@ -1266,7 +1350,7 @@
         "lanparty"
       ]
     },
-    "original_repository_sha": "d4543e9be8db5d3ba56d93f21e3725ec9d058a78",
+    "original_repository_sha": "21cc1304087dca1ae6a66b70063fb0dd392345c6",
     "enhanced_repository": "enhansome/enhansome-lanparty-software",
     "enhanced_repository_description": null,
     "title": "Awesome LAN Party Software with stars"

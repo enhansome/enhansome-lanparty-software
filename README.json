@@ -258,7 +258,7 @@
                 "open_issues": 194,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9477,
+                "stars": 9488,
                 "topics": [
                   "docker",
                   "free",
@@ -340,7 +340,7 @@
                 "open_issues": 1,
                 "owner": "MythicalLTD",
                 "repo": "FeatherPanel",
-                "stars": 240,
+                "stars": 243,
                 "topics": [
                   "docker",
                   "dockerpanel",
@@ -743,7 +743,7 @@
                 "open_issues": 8,
                 "owner": "OpenSourceLAN",
                 "repo": "gameservers-docker",
-                "stars": 547,
+                "stars": 546,
                 "topics": [
                   "csgo",
                   "docker",
@@ -986,7 +986,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-07T18:55:15Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "lan-dot-party",
                 "repo": "LANLeecher",
                 "stars": 0,
@@ -1177,11 +1177,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-08T15:27:43Z",
-                "open_issues": 862,
+                "last_commit": "2026-11-09T18:59:36Z",
+                "open_issues": 860,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 93379,
+                "stars": 93419,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1211,8 +1211,8 @@
                 "id": 1189028253,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-08T16:45:29Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-09T21:05:52Z",
+                "open_issues": 6,
                 "owner": "fclairamb",
                 "repo": "solidping",
                 "stars": 30,
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T16:47:10.717Z",
+    "last_updated": "2026-11-09T21:06:59.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",

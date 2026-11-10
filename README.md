@@ -34,9 +34,9 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Gameserver Management
 
-* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,488 | 🐛 194 | 🌐 PHP | 📅 2026-11-05 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
+* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,492 | 🐛 194 | 🌐 PHP | 📅 2026-11-10 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
 * [get5](https://github.com/splewis/get5) ⭐ 553 | 🐛 12 | 🌐 SourcePawn | 📅 2023-11-14 – CS:GO Sourcemod plugin for competitive matches/scrims.
-* [eBot](https://github.com/deStrO/eBot-CSGO) ⭐ 381 | 🐛 10 | 🌐 PHP | 📅 2023-11-07 – CSGO Server Bot for easy match creation (might be outdated).
+* [eBot](https://github.com/deStrO/eBot-CSGO) ⭐ 382 | 🐛 10 | 🌐 PHP | 📅 2023-11-07 – CSGO Server Bot for easy match creation (might be outdated).
 * [FeatherPanel](https://github.com/MythicalLTD/FeatherPanel) ⭐ 243 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-06 – Open-source (AGPL-3.0) game server management panel; its FeatherWings daemon runs each game server in a Docker container.
 * [PugSharp](https://github.com/Lan2Play/PugSharp) ⭐ 61 | 🐛 32 | 🌐 C# | 📅 2026-02-16 - CS2 CS# plugin for competitive matches/scrims, with api compatibility to get5.
 * [TMT](https://github.com/JensForstmann/tmt2) ⭐ 38 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-26 – A tool to supervise/manage Counter-Strike 2 matches.
@@ -85,7 +85,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Caching
 
-* [steam-lancache-prefill](https://github.com/tpill90/steam-lancache-prefill) ⭐ 472 | 🐛 18 | 🌐 C# | 📅 2026-08-25 – A self-contained, portable alternative to lancache-autofill with more features for steam games
+* [steam-lancache-prefill](https://github.com/tpill90/steam-lancache-prefill) ⭐ 472 | 🐛 19 | 🌐 C# | 📅 2026-08-25 – A self-contained, portable alternative to lancache-autofill with more features for steam games
 * [lancache](https://github.com/bntjah/lancache) ⭐ 181 | 🐛 45 | 🌐 Shell | 📅 2021-03-09
 * [lancache-autofill](https://github.com/zeropingheroes/lancache-autofill) ⭐ 132 | 🐛 21 | 🌐 PHP | 📅 2022-06-21 – A script to fill a lan caching server
 * [battlenet-lancache-prefill](https://github.com/tpill90/battlenet-lancache-prefill) ⭐ 119 | 🐛 12 | 🌐 C# | 📅 2026-07-26 – A self-contained, portable alternative to lancache-autofill with more features for battlenet games
@@ -95,8 +95,8 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Monitoring
 
-* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 93,419 | 🐛 860 | 🌐 JavaScript | 📅 2026-11-09 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
-* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 30 | 🐛 6 | 🌐 Go | 📅 2026-11-09 - Self-hosted uptime monitor with game server checks (Source/A2S and Minecraft, with player counts) next to ping, TCP, UDP, DNS and HTTP checks. Single binary or Docker container, SQLite by default.
+* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 93,458 | 🐛 859 | 🌐 JavaScript | 📅 2026-11-10 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
+* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 31 | 🐛 5 | 🌐 Go | 📅 2026-11-10 - Self-hosted uptime monitor with game server checks (Source/A2S and Minecraft, with player counts) next to ping, TCP, UDP, DNS and HTTP checks. Single binary or Docker container, SQLite by default.
 * [checkmk-RCONserver](https://github.com/Hornochs/checkmk-RCONserver) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-10-20 – A local check for CheckMK to monitor GoldSrc Games (CS 1.6, Ricochet etc) and Source Games (CS:GO etc.).
 * [CheckMK](https://checkmk.com) – Free Monitoring System that can monitor almost everything and if a check is missing, write you own simple check.
 
@@ -123,4 +123,4 @@ Software that is not specifically made for LAN Parties, but is helpful for LAN P
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

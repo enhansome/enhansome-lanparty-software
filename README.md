@@ -34,10 +34,10 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Gameserver Management
 
-* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,492 | 🐛 194 | 🌐 PHP | 📅 2026-11-10 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
+* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,496 | 🐛 191 | 🌐 PHP | 📅 2026-11-11 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
 * [get5](https://github.com/splewis/get5) ⭐ 553 | 🐛 12 | 🌐 SourcePawn | 📅 2023-11-14 – CS:GO Sourcemod plugin for competitive matches/scrims.
 * [eBot](https://github.com/deStrO/eBot-CSGO) ⭐ 382 | 🐛 10 | 🌐 PHP | 📅 2023-11-07 – CSGO Server Bot for easy match creation (might be outdated).
-* [FeatherPanel](https://github.com/MythicalLTD/FeatherPanel) ⭐ 243 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-06 – Open-source (AGPL-3.0) game server management panel; its FeatherWings daemon runs each game server in a Docker container.
+* [FeatherPanel](https://github.com/MythicalLTD/FeatherPanel) ⭐ 243 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-06 – Open-source (AGPL-3.0) game server management panel; its FeatherWings daemon runs each game server in a Docker container.
 * [PugSharp](https://github.com/Lan2Play/PugSharp) ⭐ 61 | 🐛 32 | 🌐 C# | 📅 2026-02-16 - CS2 CS# plugin for competitive matches/scrims, with api compatibility to get5.
 * [TMT](https://github.com/JensForstmann/tmt2) ⭐ 38 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-26 – A tool to supervise/manage Counter-Strike 2 matches.
 * [Wilfred](https://github.com/wilfred-dev/wilfred) ⭐ 37 | 🐛 14 | 🌐 Python | 📅 2024-01-06 – "Wilfred is a command-line interface for running and managing game servers locally. It uses Docker to run game servers in containers, which means they are completely separated. Wilfred can run any game that can run in Docker."
@@ -52,7 +52,7 @@ If you are not sure where to put something, open an issue instead ;)
 * [srcdstop](https://github.com/991jo/srcdstop) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2019-12-12 – A CLI tool that shows how many people are on your SRCDS servers.
 * [gsltctrl\_minimal](https://github.com/991jo/gsltctrl_minimal) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2020-07-16 – A little script to manage GSLT tokens.
 * [standalone-rcon-client](https://github.com/Egosar93/standalone-rcon-client) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2025-08-18 - "The Standalone RCON Client is a web-based tool for securely sending RCON commands to CS2 servers."
-* [LANPilot](https://github.com/lan-dot-party/LANPilot) ⭐ 0 | 🐛 9 | 🌐 Python | 📅 2026-11-03 - "LANPilot: A web interface for monitoring and remote-controlling game servers at LAN parties without loggin into the machine"
+* [LANPilot](https://github.com/lan-dot-party/LANPilot) ⭐ 0 | 🐛 9 | 🌐 Python | 📅 2026-11-10 - "LANPilot: A web interface for monitoring and remote-controlling game servers at LAN parties without loggin into the machine"
 * [LinuxGSM](https://linuxgsm.com/) – The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 * [5stack.gg](https://docs.5stack.gg/) - "5stack: A Comprehensive Panel for Matchmaking, Server Management, Match Management, and Tournament Management"
 
@@ -86,7 +86,7 @@ If you are not sure where to put something, open an issue instead ;)
 ### Caching
 
 * [steam-lancache-prefill](https://github.com/tpill90/steam-lancache-prefill) ⭐ 472 | 🐛 19 | 🌐 C# | 📅 2026-08-25 – A self-contained, portable alternative to lancache-autofill with more features for steam games
-* [lancache](https://github.com/bntjah/lancache) ⭐ 181 | 🐛 45 | 🌐 Shell | 📅 2021-03-09
+* [lancache](https://github.com/bntjah/lancache) ⭐ 182 | 🐛 45 | 🌐 Shell | 📅 2021-03-09
 * [lancache-autofill](https://github.com/zeropingheroes/lancache-autofill) ⭐ 132 | 🐛 21 | 🌐 PHP | 📅 2022-06-21 – A script to fill a lan caching server
 * [battlenet-lancache-prefill](https://github.com/tpill90/battlenet-lancache-prefill) ⭐ 119 | 🐛 12 | 🌐 C# | 📅 2026-07-26 – A self-contained, portable alternative to lancache-autofill with more features for battlenet games
 * [origin-docker](https://github.com/OpenSourceLAN/origin-docker) ⭐ 78 | 🐛 5 | 🌐 Shell | 📅 2021-11-12 – Single docker image that will serves most major CDNs
@@ -95,8 +95,8 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Monitoring
 
-* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 93,458 | 🐛 859 | 🌐 JavaScript | 📅 2026-11-10 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
-* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 31 | 🐛 5 | 🌐 Go | 📅 2026-11-10 - Self-hosted uptime monitor with game server checks (Source/A2S and Minecraft, with player counts) next to ping, TCP, UDP, DNS and HTTP checks. Single binary or Docker container, SQLite by default.
+* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 93,516 | 🐛 850 | 🌐 JavaScript | 📅 2026-11-11 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
+* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 33 | 🐛 6 | 🌐 Go | 📅 2026-11-11 - Self-hosted uptime monitor with game server checks (Source/A2S and Minecraft, with player counts) next to ping, TCP, UDP, DNS and HTTP checks. Single binary or Docker container, SQLite by default.
 * [checkmk-RCONserver](https://github.com/Hornochs/checkmk-RCONserver) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-10-20 – A local check for CheckMK to monitor GoldSrc Games (CS 1.6, Ricochet etc) and Source Games (CS:GO etc.).
 * [CheckMK](https://checkmk.com) – Free Monitoring System that can monitor almost everything and if a check is missing, write you own simple check.
 
@@ -123,4 +123,4 @@ Software that is not specifically made for LAN Parties, but is helpful for LAN P
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

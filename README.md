@@ -35,10 +35,10 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Gameserver Management
 
-* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,501 | 🐛 190 | 🌐 PHP | 📅 2026-11-11 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
+* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,508 | 🐛 190 | 🌐 PHP | 📅 2026-11-11 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
 * [get5](https://github.com/splewis/get5) ⭐ 553 | 🐛 12 | 🌐 SourcePawn | 📅 2023-11-14 – CS:GO Sourcemod plugin for competitive matches/scrims.
 * [eBot](https://github.com/deStrO/eBot-CSGO) ⭐ 382 | 🐛 10 | 🌐 PHP | 📅 2023-11-07 – CSGO Server Bot for easy match creation (might be outdated).
-* [FeatherPanel](https://github.com/MythicalLTD/FeatherPanel) ⭐ 243 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-12 – Open-source (AGPL-3.0) game server management panel; its FeatherWings daemon runs each game server in a Docker container.
+* [FeatherPanel](https://github.com/MythicalLTD/FeatherPanel) ⭐ 245 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-12 – Open-source (AGPL-3.0) game server management panel; its FeatherWings daemon runs each game server in a Docker container.
 * [PugSharp](https://github.com/Lan2Play/PugSharp) ⭐ 61 | 🐛 32 | 🌐 C# | 📅 2026-02-16 - CS2 CS# plugin for competitive matches/scrims, with api compatibility to get5.
 * [TMT](https://github.com/JensForstmann/tmt2) ⭐ 38 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-26 – A tool to supervise/manage Counter-Strike 2 matches.
 * [Wilfred](https://github.com/wilfred-dev/wilfred) ⭐ 37 | 🐛 14 | 🌐 Python | 📅 2024-01-06 – "Wilfred is a command-line interface for running and managing game servers locally. It uses Docker to run game servers in containers, which means they are completely separated. Wilfred can run any game that can run in Docker."
@@ -96,8 +96,8 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Monitoring
 
-* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 93,566 | 🐛 852 | 🌐 JavaScript | 📅 2026-11-12 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
-* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 33 | 🐛 5 | 🌐 Go | 📅 2026-11-12 - Self-hosted uptime monitor with game server checks (Source/A2S and Minecraft, with player counts) next to ping, TCP, UDP, DNS and HTTP checks. Single binary or Docker container, SQLite by default.
+* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 93,750 | 🐛 853 | 🌐 JavaScript | 📅 2026-11-13 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
+* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 33 | 🐛 3 | 🌐 Go | 📅 2026-11-13 - Self-hosted uptime monitor with game server checks (Source/A2S and Minecraft, with player counts) next to ping, TCP, UDP, DNS and HTTP checks. Single binary or Docker container, SQLite by default.
 * [checkmk-RCONserver](https://github.com/Hornochs/checkmk-RCONserver) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-10-20 – A local check for CheckMK to monitor GoldSrc Games (CS 1.6, Ricochet etc) and Source Games (CS:GO etc.).
 * [CheckMK](https://checkmk.com) – Free Monitoring System that can monitor almost everything and if a check is missing, write you own simple check.
 
@@ -124,4 +124,4 @@ Software that is not specifically made for LAN Parties, but is helpful for LAN P
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

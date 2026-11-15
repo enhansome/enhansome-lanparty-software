@@ -280,7 +280,7 @@
                 "open_issues": 190,
                 "owner": "pterodactyl",
                 "repo": "panel",
-                "stars": 9512,
+                "stars": 9514,
                 "topics": [
                   "docker",
                   "free",
@@ -310,7 +310,7 @@
                 "id": 48971321,
                 "language": "SourcePawn",
                 "license": "GPL-3.0",
-                "last_commit": "2023-11-14T11:57:20Z",
+                "last_commit": "2026-11-14T23:33:42Z",
                 "open_issues": 12,
                 "owner": "splewis",
                 "repo": "get5",
@@ -362,7 +362,7 @@
                 "open_issues": 2,
                 "owner": "MythicalLTD",
                 "repo": "FeatherPanel",
-                "stars": 247,
+                "stars": 246,
                 "topics": [
                   "docker",
                   "dockerpanel",
@@ -1151,7 +1151,7 @@
                 "language": "C#",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-11T23:05:49Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "regix1",
                 "repo": "lancache-manager",
                 "stars": 40,
@@ -1199,11 +1199,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-14T11:48:02Z",
+                "last_commit": "2026-11-15T00:04:55Z",
                 "open_issues": 855,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 94119,
+                "stars": 94412,
                 "topics": [
                   "docker",
                   "monitor",
@@ -1233,11 +1233,11 @@
                 "id": 1189028253,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-14T16:10:15Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-15T14:07:56Z",
+                "open_issues": 2,
                 "owner": "fclairamb",
                 "repo": "solidping",
-                "stars": 33,
+                "stars": 35,
                 "topics": [
                   "alerting",
                   "devops",
@@ -1350,7 +1350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T16:44:00.240Z",
+    "last_updated": "2026-11-15T17:25:51.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list with awesome software for awesome LAN parties and their organizers.",

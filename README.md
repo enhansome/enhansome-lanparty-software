@@ -12,7 +12,7 @@ If you are not sure where to put something, open an issue instead ;)
 ### LAN Party Management
 
 * [LANager](https://github.com/zeropingheroes/lanager) ⭐ 132 | 🐛 3 | 🌐 PHP | 📅 2026-11-07 – "LAN party management web application"
-* [Lan2Play's Eventula Event Manager](https://github.com/Lan2Play/eventula-manager) ⭐ 34 | 🐛 158 | 🌐 PHP | 📅 2026-11-16 – Event Ticket & Management System with (automated) Tournament support and lots of features
+* [Lan2Play's Eventula Event Manager](https://github.com/Lan2Play/eventula-manager) ⭐ 34 | 🐛 158 | 🌐 PHP | 📅 2026-11-17 – Event Ticket & Management System with (automated) Tournament support and lots of features
 * [KRRU LAN-Party Management System](https://github.com/KRRUg/KLMS) ⭐ 17 | 🐛 5 | 🌐 PHP | 📅 2025-09-17 - CMS (Content management system) for LAN-Parties. Everything you need to present and manage your event in a modern design.
 * [Lansite](https://github.com/tannerkrewson/lansite) ⭐ 15 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-13 – "A web app for LAN parties designed to be a simple, central information hub for all attendees"
   * [Lansite (Fork)](https://github.com/marius137/lansite) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-09-13 – "Lansite Fork that optionally removes admin approval for posts"
@@ -35,10 +35,10 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Gameserver Management
 
-* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,520 | 🐛 191 | 🌐 PHP | 📅 2026-11-11 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
+* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,524 | 🐛 191 | 🌐 PHP | 📅 2026-11-18 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
 * [get5](https://github.com/splewis/get5) ⭐ 554 | 🐛 12 | 🌐 SourcePawn | 📅 2026-11-14 – CS:GO Sourcemod plugin for competitive matches/scrims.
 * [eBot](https://github.com/deStrO/eBot-CSGO) ⭐ 383 | 🐛 10 | 🌐 PHP | 📅 2023-11-07 – CSGO Server Bot for easy match creation (might be outdated).
-* [FeatherPanel](https://github.com/MythicalLTD/FeatherPanel) ⭐ 248 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-17 – Open-source (AGPL-3.0) game server management panel; its FeatherWings daemon runs each game server in a Docker container.
+* [FeatherPanel](https://github.com/MythicalLTD/FeatherPanel) ⭐ 249 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-17 – Open-source (AGPL-3.0) game server management panel; its FeatherWings daemon runs each game server in a Docker container.
 * [PugSharp](https://github.com/Lan2Play/PugSharp) ⭐ 61 | 🐛 32 | 🌐 C# | 📅 2026-02-16 - CS2 CS# plugin for competitive matches/scrims, with api compatibility to get5.
 * [TMT](https://github.com/JensForstmann/tmt2) ⭐ 38 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-26 – A tool to supervise/manage Counter-Strike 2 matches.
 * [Wilfred](https://github.com/wilfred-dev/wilfred) ⭐ 37 | 🐛 14 | 🌐 Python | 📅 2024-01-06 – "Wilfred is a command-line interface for running and managing game servers locally. It uses Docker to run game servers in containers, which means they are completely separated. Wilfred can run any game that can run in Docker."
@@ -53,7 +53,7 @@ If you are not sure where to put something, open an issue instead ;)
 * [srcdstop](https://github.com/991jo/srcdstop) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2019-12-12 – A CLI tool that shows how many people are on your SRCDS servers.
 * [gsltctrl\_minimal](https://github.com/991jo/gsltctrl_minimal) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2020-07-16 – A little script to manage GSLT tokens.
 * [standalone-rcon-client](https://github.com/Egosar93/standalone-rcon-client) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2025-08-18 - "The Standalone RCON Client is a web-based tool for securely sending RCON commands to CS2 servers."
-* [LANPilot](https://github.com/lan-dot-party/LANPilot) ⭐ 0 | 🐛 10 | 🌐 Python | 📅 2026-11-17 - "LANPilot: A web interface for monitoring and remote-controlling game servers at LAN parties without loggin into the machine"
+* [LANPilot](https://github.com/lan-dot-party/LANPilot) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-18 - "LANPilot: A web interface for monitoring and remote-controlling game servers at LAN parties without loggin into the machine"
 * [LinuxGSM](https://linuxgsm.com/) – The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 * [5stack.gg](https://docs.5stack.gg/) - "5stack: A Comprehensive Panel for Matchmaking, Server Management, Match Management, and Tournament Management"
 
@@ -81,7 +81,7 @@ If you are not sure where to put something, open an issue instead ;)
 * [FlowGauge](https://github.com/lan-dot-party/FlowGauge) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2026-11-17 - A modular bandwidth testing tool with Multi-WAN support, DSCP flag configuration, and Grafana-compatible API.
 * [Discord Gameserver Notifier](https://github.com/lan-dot-party/Discord-Gameserver-Notifier) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-11-16 - Software so search local network of Gameserver and send Webhook into Discord Channel on new findings
 * [Gaming LAN Manager](https://github.com/SovereignBit/GamingLAN) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-03-09 - A specialized WireGuard wrapper to create zero-config Virtual LANs, allowing remote friends to play LAN games over the internet.
-* [LANLeecher](https://github.com/lan-dot-party/LANLeecher) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-11-17 - At LAN parties, LANLeecher counts how much every guest downloads and uploads and turns it into rankings – in the browser, on the beamer and via API.
+* [LANLeecher](https://github.com/lan-dot-party/LANLeecher) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-11-18 - At LAN parties, LANLeecher counts how much every guest downloads and uploads and turns it into rankings – in the browser, on the beamer and via API.
 * [bcast-bridge](https://git.kopf-tisch.de/razzor/bcast-bridge) – A PHP script that generates iptables rules that forward broadcast traffic to other networks. Used at NorthCon and LANresort.
 
 ### Caching
@@ -96,8 +96,8 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Monitoring
 
-* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 94,551 | 🐛 850 | 🌐 JavaScript | 📅 2026-11-17 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
-* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 39 | 🐛 6 | 🌐 Go | 📅 2026-11-17 - Self-hosted uptime monitor with game server checks (Source/A2S and Minecraft, with player counts) next to ping, TCP, UDP, DNS and HTTP checks. Single binary or Docker container, SQLite by default.
+* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 94,599 | 🐛 856 | 🌐 JavaScript | 📅 2026-11-18 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
+* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 39 | 🐛 5 | 🌐 Go | 📅 2026-11-18 - Self-hosted uptime monitor with game server checks (Source/A2S and Minecraft, with player counts) next to ping, TCP, UDP, DNS and HTTP checks. Single binary or Docker container, SQLite by default.
 * [checkmk-RCONserver](https://github.com/Hornochs/checkmk-RCONserver) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-10-20 – A local check for CheckMK to monitor GoldSrc Games (CS 1.6, Ricochet etc) and Source Games (CS:GO etc.).
 * [CheckMK](https://checkmk.com) – Free Monitoring System that can monitor almost everything and if a check is missing, write you own simple check.
 
@@ -124,4 +124,4 @@ Software that is not specifically made for LAN Parties, but is helpful for LAN P
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._

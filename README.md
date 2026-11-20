@@ -12,7 +12,7 @@ If you are not sure where to put something, open an issue instead ;)
 ### LAN Party Management
 
 * [LANager](https://github.com/zeropingheroes/lanager) ⭐ 132 | 🐛 3 | 🌐 PHP | 📅 2026-11-07 – "LAN party management web application"
-* [Lan2Play's Eventula Event Manager](https://github.com/Lan2Play/eventula-manager) ⭐ 34 | 🐛 157 | 🌐 PHP | 📅 2026-11-19 – Event Ticket & Management System with (automated) Tournament support and lots of features
+* [Lan2Play's Eventula Event Manager](https://github.com/Lan2Play/eventula-manager) ⭐ 34 | 🐛 157 | 🌐 PHP | 📅 2026-11-20 – Event Ticket & Management System with (automated) Tournament support and lots of features
 * [KRRU LAN-Party Management System](https://github.com/KRRUg/KLMS) ⭐ 17 | 🐛 5 | 🌐 PHP | 📅 2025-09-17 - CMS (Content management system) for LAN-Parties. Everything you need to present and manage your event in a modern design.
 * [Lansite](https://github.com/tannerkrewson/lansite) ⭐ 15 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-13 – "A web app for LAN parties designed to be a simple, central information hub for all attendees"
   * [Lansite (Fork)](https://github.com/marius137/lansite) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-09-13 – "Lansite Fork that optionally removes admin approval for posts"
@@ -35,14 +35,14 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Gameserver Management
 
-* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,528 | 🐛 192 | 🌐 PHP | 📅 2026-11-18 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
+* [Pterodactyl Panel](https://github.com/pterodactyl/panel) ⭐ 9,532 | 🐛 192 | 🌐 PHP | 📅 2026-11-18 – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
 * [get5](https://github.com/splewis/get5) ⭐ 554 | 🐛 12 | 🌐 SourcePawn | 📅 2026-11-14 – CS:GO Sourcemod plugin for competitive matches/scrims.
-* [eBot](https://github.com/deStrO/eBot-CSGO) ⭐ 382 | 🐛 10 | 🌐 PHP | 📅 2023-11-07 – CSGO Server Bot for easy match creation (might be outdated).
-* [FeatherPanel](https://github.com/MythicalLTD/FeatherPanel) ⭐ 249 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-19 – Open-source (AGPL-3.0) game server management panel; its FeatherWings daemon runs each game server in a Docker container.
+* [eBot](https://github.com/deStrO/eBot-CSGO) ⭐ 383 | 🐛 10 | 🌐 PHP | 📅 2023-11-07 – CSGO Server Bot for easy match creation (might be outdated).
+* [FeatherPanel](https://github.com/MythicalLTD/FeatherPanel) ⭐ 250 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-20 – Open-source (AGPL-3.0) game server management panel; its FeatherWings daemon runs each game server in a Docker container.
 * [PugSharp](https://github.com/Lan2Play/PugSharp) ⭐ 61 | 🐛 32 | 🌐 C# | 📅 2026-02-16 - CS2 CS# plugin for competitive matches/scrims, with api compatibility to get5.
 * [TMT](https://github.com/JensForstmann/tmt2) ⭐ 38 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-26 – A tool to supervise/manage Counter-Strike 2 matches.
 * [Wilfred](https://github.com/wilfred-dev/wilfred) ⭐ 37 | 🐛 14 | 🌐 Python | 📅 2024-01-06 – "Wilfred is a command-line interface for running and managing game servers locally. It uses Docker to run game servers in containers, which means they are completely separated. Wilfred can run any game that can run in Docker."
-* [srcds\_exporter (golang)](https://github.com/galexrt/srcds_exporter) ⭐ 32 | 🐛 3 | 🌐 Go | 📅 2026-11-16 – A stats exporter for prometheus written in Go and tested with Garry's Mod.
+* [srcds\_exporter (golang)](https://github.com/galexrt/srcds_exporter) ⭐ 32 | 🐛 1 | 🌐 Go | 📅 2026-11-20 – A stats exporter for prometheus written in Go and tested with Garry's Mod.
 * [kubernetes-lanparty](https://github.com/OpenSourceLAN/kubernetes-lanparty/) ⭐ 26 | 🐛 0 | 🌐 Smarty | 📅 2022-10-03  How to put all of your game servers into Kubernetes.
 * [srcds\_exporter (python)](https://github.com/991jo/srcds_exporter) ⭐ 20 | 🐛 4 | 🌐 Python | 📅 2021-03-20 – A stats exporter for prometheus that supports most of the SRCDS based gameservers.
 * [srcds-perfmon](https://github.com/OpenSourceLAN/srcds-perfmon) ⭐ 8 | 🐛 1 | 🌐 HTML | 📅 2016-05-22 – A little utility to track the performance of a SRCDS server.
@@ -59,7 +59,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Gameserver Configs
 
-* [Generic Docker game servers](https://github.com/OpenSourceLAN/gameservers-docker) ⭐ 546 | 🐛 8 | 🌐 Shell | 📅 2024-08-14
+* [Generic Docker game servers](https://github.com/OpenSourceLAN/gameservers-docker) ⭐ 545 | 🐛 8 | 🌐 Shell | 📅 2024-08-14
 * [Archived ESL Configs](https://github.com/lan-dot-party/ESL-Configs) ⭐ 3 | 🐛 1 | 📅 2025-07-08
 
 ### Switch Configuration Tools
@@ -74,7 +74,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Network-related software
 
-* [QStat](https://github.com/multiplay/qstat) ⭐ 135 | 🐛 16 | 🌐 C | 📅 2026-01-07 – "A command-line program that displays information about Internet game servers."
+* [QStat](https://github.com/multiplay/qstat) ⭐ 135 | 🐛 14 | 🌐 C | 📅 2026-11-20 – "A command-line program that displays information about Internet game servers."
 * [Service Discovery Helper](https://github.com/OpenSourceLAN/service-discovery-helper) ⭐ 50 | 🐛 1 | 🌐 C | 📅 2018-10-25 – A program that forwards (some) broadcast traffic to other networks.
 * [GrokStat](https://github.com/vorot93/grokstat) ⭐ 29 | 🐛 1 | 🌐 Go | 📅 2017-02-10 – "Fast game server query tool. Retrieves information about game servers. Inspired by QStat."
 * [gamebridge](https://github.com/netwarlan/gamebridge) ⭐ 8 | 🐛 1 | 📅 2025-03-12 - Gamebridge allows you to carve up your LAN party network into many VLANs. Usually, this is a no-no for LAN parties due to the broadcasts needed to find local LAN game servers. Gamebridge rebroadcasts those game server finding beacons across many VLANs without passing anything else (ARP, BPDU, other non-game server broadcasts, etc.) using Linux ebtables. Very simple to set up and deploy. Created by [NETWAR](https://www.netwar.org)
@@ -86,7 +86,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Caching
 
-* [steam-lancache-prefill](https://github.com/tpill90/steam-lancache-prefill) ⭐ 474 | 🐛 19 | 🌐 C# | 📅 2026-08-25 – A self-contained, portable alternative to lancache-autofill with more features for steam games
+* [steam-lancache-prefill](https://github.com/tpill90/steam-lancache-prefill) ⭐ 473 | 🐛 19 | 🌐 C# | 📅 2026-08-25 – A self-contained, portable alternative to lancache-autofill with more features for steam games
 * [lancache](https://github.com/bntjah/lancache) ⭐ 182 | 🐛 45 | 🌐 Shell | 📅 2021-03-09
 * [lancache-autofill](https://github.com/zeropingheroes/lancache-autofill) ⭐ 132 | 🐛 21 | 🌐 PHP | 📅 2022-06-21 – A script to fill a lan caching server
 * [battlenet-lancache-prefill](https://github.com/tpill90/battlenet-lancache-prefill) ⭐ 119 | 🐛 13 | 🌐 C# | 📅 2026-07-26 – A self-contained, portable alternative to lancache-autofill with more features for battlenet games
@@ -96,8 +96,8 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Monitoring
 
-* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 94,651 | 🐛 857 | 🌐 JavaScript | 📅 2026-11-19 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
-* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 42 | 🐛 7 | 🌐 Go | 📅 2026-11-19 - Self-hosted uptime monitor with game server checks (Source/A2S and Minecraft, with player counts) next to ping, TCP, UDP, DNS and HTTP checks. Single binary or Docker container, SQLite by default.
+* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 94,704 | 🐛 857 | 🌐 JavaScript | 📅 2026-11-20 - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
+* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 45 | 🐛 13 | 🌐 Go | 📅 2026-11-20 - Self-hosted uptime monitor with game server checks (Source/A2S and Minecraft, with player counts) next to ping, TCP, UDP, DNS and HTTP checks. Single binary or Docker container, SQLite by default.
 * [checkmk-RCONserver](https://github.com/Hornochs/checkmk-RCONserver) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-10-20 – A local check for CheckMK to monitor GoldSrc Games (CS 1.6, Ricochet etc) and Source Games (CS:GO etc.).
 * [CheckMK](https://checkmk.com) – Free Monitoring System that can monitor almost everything and if a check is missing, write you own simple check.
 
@@ -124,4 +124,4 @@ Software that is not specifically made for LAN Parties, but is helpful for LAN P
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
